@@ -1,0 +1,496 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #E6B52E;
+  font-family: 'Lora', sans-serif;
+}
+
+.navButton {
+  /* Make buttons look nice */ 
+  cursor: pointer;
+  float: left;
+  width: 25px;
+  height: 22px;
+  padding: 10px;
+  margin-right: 5px;
+  overflow: hidden;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  background: #000000;
+  opacity: 0.65;
+  user-select: none;
+}
+
+.navButton:hover {
+  opacity: 1;
+}
+
+.home-icon {
+  text-align: right;
+  padding-right: 5px;
+  font-size: 30px;
+}
+
+#header-nav {
+  background-color: #2EE6B5;
+  border: none;
+  border-radius: 0;
+  box-shadow: 0px 0px 20px 8px #222;
+  margin-bottom: 0;
+}
+
+.navbar-brand h1 {
+  margin-top: -10px;
+  text-align: center;
+  color: #222;
+}
+
+#collapsable-nav {
+  border: 0;
+  padding-top: 10px;
+}
+
+.navbar-header {
+  padding: 12px 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #222;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+#collapsable-nav a {
+  padding: 8px 10px;
+  margin: 8px 5px 0 5px;
+  border: 1px solid #2EE6B5;
+  border-radius: 9px;
+}
+
+#collapsable-nav a:hover, #collapsable-nav a:focus {
+  text-decoration: none;
+  box-shadow: 0px 0px 20px 2px #eee;
+}
+
+.snippet-title {
+  margin-top: 0;
+  padding-top: 20px;
+  text-align: center;
+}
+
+#nav-list {
+  margin: 0;
+  margin-top: -20px;
+  padding-bottom: 8px;
+}
+
+#nav-list li {
+  text-align: center;
+}
+
+.panel-footer {
+  background-color: #333;
+}
+
+#main-content {
+  border: none;
+}
+
+#home-snippet {
+  background: url("../images/SanEduardo2_web.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 640px;
+}
+
+#texto-ayuda {
+  font-size: 0.8em; 
+  color: white;
+}
+
+#misas-snippet, #homilias-snippet, #capillas-snippet, 
+#balances-snippet, #retiros-snippet, #sacramentos-snippet {
+/*  background-color: #62ECC8; */
+  background-color: #E6B52E;
+}
+
+/*
+#misas-snippet {
+  background-color: #AB75DB;
+}
+#homilias-snippet {
+  background-color: #9EBF36;
+}
+
+#capillas-snippet {
+  background-color: #E7B682;
+}
+
+#balances-snippet {
+  background-color: #ddd;
+}
+
+#retiros-snippet {
+  background-color: #2EBBE6;
+}
+*/
+
+.intralink:hover, .intralink:focus{
+  /*color: #2EE6B5;*/
+  color: teal;
+}
+
+.misas-title {
+  font-size: 1.1em;
+  font-style: oblique;
+  border-bottom: 1px black solid;
+}
+
+#misas-tipo {
+  padding-top: 8px;
+}
+
+.diaTipo {
+  font-weight: bold;
+}
+
+#myCarousel {
+  margin-top: 10px;
+/*  height: 450px; */
+  width: 450px;
+  height: 500px;
+}
+
+.item img {
+  min-height: 500px;
+  max-height: 500px;
+  max-width: 420px;
+  opacity: 0.8;
+}
+
+.row {
+  width: 100%;
+  align-content: center;
+  margin: 0;
+}
+
+.tile {
+  height: 220px;
+  border: 1px solid black;
+  margin-bottom: 15px;
+}
+
+.intralink {
+  color: teal;
+  font-weight: 600;
+  text-decoration: none;
+  font-style: italic;
+}
+
+#novedades {
+  background-color: #E6B52E;
+}
+
+#novedades-title {
+  margin-top: 20px;
+  font-style: normal;
+}
+
+.novedades-item {
+  font-size: 0.7em;
+}
+
+#novedades-fecha {
+  margin-right: 15px;
+  text-align: right;
+  font-size: 0.6em;
+  font-style: normal;
+}
+
+footer {
+  border: none;
+  border-radius: 0;
+}
+
+footer span {
+  font-size: 1.2em;
+}
+
+footer section {
+  color: #CCC;
+}
+
+section hr {
+  border-top: 1px solid #666;
+}
+
+.textshadow {
+    text-shadow: 3px 2px 10px rgba(76,46,255,0.74);
+}
+
+#lema {
+  font-size: 2.5em;
+  margin-top: 25px;
+}
+
+#padres {
+  margin: 15px;
+  font-size: 1.5em;
+  font-weight: 500;
+  font-style: italic;
+  height: 500px;
+}
+
+#redoracion {
+  font-size: 1.2em;
+  text-align: right;
+  padding: 0 10px 10px;
+  margin-top: -40px;
+  font-style: italic;
+}
+
+#colaboraciones {
+  font-size: 1.3em;
+  text-align: left;
+  padding: 0 10px 10px;
+  margin-top: -40px;
+  font-style: italic;
+}
+
+#prensaobispadobche {
+  margin: 25px 150px; 
+  text-align: inherit; 
+  padding: 25px 20px; 
+  border: 1px solid #888
+}
+
+.hrblack {
+  border-top: 1px solid black;
+}
+
+#horarios p, #curas p {
+  margin-top: 9px;
+  line-height: 1.9;
+}
+
+section {
+  margin: 0;
+}
+
+section p {
+  font-size: 0.9em;
+}
+
+#contacto a, #redoracion a, #colaboraciones a {
+    color: #ccc;
+    text-decoration: none;
+}
+
+#contacto a:hover, #contacto a:focus,
+#redoracion a:hover, #redoracion a:focus,
+#colaboraciones a:hover, #colaboraciones a:focus {
+    color: #e6b319;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#contacto a:visited, #contacto a:visited {
+  text-decoration: none;
+}
+
+#homilia-audio {
+  margin-bottom: 20px;
+}
+
+.capilla-nombre {
+  font-size: 1.5em;
+}
+
+.capilla-imagen {
+  max-width: 400px;
+}
+
+.proyecto-foto {
+  margin: 10px 0 0 0; 
+  width: 100%;
+}
+
+/********** Large devices only **********/
+@media (min-width: 1200px) {
+#texto-ayuda {
+  font-size: 0.8em; 
+  color: black; 
+  margin-top: 50px;
+}
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+  #collapsable-nav a {
+    margin-bottom: 20px;
+  }
+#texto-ayuda {
+  font-size: 0.8em; 
+  color: black; 
+  margin-top: 50px;
+}
+
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+  section  {
+    text-align: center;
+  }
+  .navbar-brand h1 {
+    font-size: 1.8em;
+  }
+  #collapsable-nav a {
+    margin-bottom: 20px;
+  }
+  #capilla {
+    padding-top: 10px;
+  }
+  .misas-detail {
+    line-height: 1.2;
+  }
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+  section {
+    text-align: center;
+  }
+  #home-snippet {
+    height: 550px;
+  }
+  .navbar-brand h1 {
+    font-size: 1.8em;
+    margin-top: -8px;
+  }
+  #nav-list #navHomeButton {
+    border-top: 1px solid black;
+  }
+  #nav-list li {
+    border-bottom: 1px solid black;
+    padding-bottom: 5px;
+  }
+  .mapa {
+    width: 300px;
+    height: 225px;
+  }
+  .capilla-imagen {
+    margin-top: 15px;
+  }
+  #capilla {
+    padding-top: 10px;
+  }
+  #homilia-audio {
+    margin-bottom: 0px;
+  }
+  #lema {
+    font-size: 1.7em;
+    margin-top: 125px;
+  }
+  #header-nav {
+    background-color: #62ECC8;
+  }
+  #misas-snippet, #homilias-snippet, #capillas-snippet, 
+  #balances-snippet, #retiros-snippet, #sacramentos-snippet {
+    background-color: #E6B52E;
+    /*background-color: #B1F6E3;*/
+  }
+  #prensaobispadobche {
+    margin: inherit; 
+    text-align: inherit; 
+    padding: 25px 20px; 
+  }
+}
+
+/********** Super extra small devices Only :-) (e.g., iPhone 4) **********/
+@media (max-width: 450px) {
+  #home-snippet {
+    height: 550px;
+  }
+  .navbar-brand {
+    height: 45px;
+    margin-top: -30px;
+  }
+  .navbar-brand h1 {
+    margin-top: 5px;
+    max-width: 340px;
+    word-break: normal;
+  }
+  #contacto #email {
+    margin-left: -20px;
+  }
+  #contacto a {
+    color: #CCC;
+    text-decoration: underline;
+  }
+  #mapa {
+    width: 300px;
+    height: 225px;
+  }
+  #homilia-audio {
+    margin-bottom: 0px;
+  }
+  #capilla {
+    padding-top: 10px;
+  }
+  #lema {
+    font-size: 2em;
+    margin-top: 125px;
+  }
+  #padres {
+    font-size: 1.2em;
+    margin-top: 10px;
+    align-content: center;
+    color: #ccc;
+  }
+  #prensaobispadobche {
+    margin: inherit; 
+    text-align: inherit; 
+    padding: 25px 20px; 
+  }
+  #novedades-title {
+  margin-top: 20px;
+    color: black;
+  }
+  .novedades-item {
+    color: black;
+  }
+  #novedades-fecha {
+    color: black;
+  }
+  #myCarousel {
+    top: 0;
+    margin-top: 10px;
+    width: 320px;
+    height: 430px;
+    margin-left: -25px;
+  }
+  .item img {
+    min-height: 430px;
+    max-height: 430px;
+    max-width: 420px;
+    opacity: 0.8;
+  }
+  #header-nav {
+    background-color: #69D1B6;
+  }
+  #misas-snippet, #homilias-snippet, #capillas-snippet, 
+  #balances-snippet, #retiros-snippet, #sacramentos-snippet {
+/*    background-color: #B1F6E3; */
+    background-color: #C99E28;
+  }
+  .misas-detail {
+    line-height: 1.1;
+  }
+}

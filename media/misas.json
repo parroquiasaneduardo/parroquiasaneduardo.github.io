@@ -1,0 +1,123 @@
+{
+	"semanales":
+	{
+		"intervalo": "Febrero 2023",
+		"tipos":
+		[
+			{
+				"descripcion": "Dominical",
+				"dias": "Sábados",
+				"misas":
+				[
+					{
+						"capilla": "Teresa de Calcuta",
+						"hora": "18:30",
+						"cupo": "12",
+						"sacerdote": "Gustavo"
+					},
+					{
+						"capilla": "NS del Cerro",
+						"hora": "19:00",
+						"cupo": "10",
+						"sacerdote": "Eduardo"
+					}
+				]
+			},
+			{
+				"descripcion": "Dominical",
+				"dias": "Domingos",
+				"misas":
+				[
+					{
+						"capilla": "Carmelitas",
+						"hora": "11:00",
+						"cupo": "25",
+						"sacerdote": "Eduardo"
+					},
+					{
+						"capilla": "San Eduardo",
+						"hora": "11:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
+					},
+					{
+						"capilla": "NS de Lujan",
+						"hora": "12:15",
+						"cupo": "10",
+						"sacerdote": "Eduardo"
+					},
+					{
+						"capilla": "San Eduardo",
+						"hora": "12:30",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
+					},
+					{
+						"capilla": "María Madre de la Luz",
+						"hora": "19:00",
+						"cupo": "10",
+						"sacerdote": "Eduardo"
+					},
+					{
+						"capilla": "San Eduardo",
+						"hora": "20:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
+					}
+				]
+			},
+			{
+				"descripcion": "Diaria",
+				"dias": "Lunes a Viernes",
+				"misas":
+				[
+					{
+						"capilla": "Carmelitas",
+						"hora": "19:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo/Eduardo"
+					}
+				]
+			},
+			{
+				"descripcion": "Diaria",
+				"dias": "Sábados",
+				"misas":
+				[
+					{
+						"capilla": "Carmelitas",
+						"hora": "11:00",
+						"cupo": "25",
+						"sacerdote": "Gustavo/Eduardo"
+					}
+				]
+			}
+		]
+	},
+	"fiestas":
+	{
+		"activa": false,
+		"descripcion": "",
+		"celebraciones":
+		[
+			{
+				"dia": "",
+				"fecha": "",
+				"descripcion": "",
+				"capillas":
+				[
+					{
+						"capilla": "San Eduardo",
+						"hora": "12:00",
+						"sacerdote": "Gustavo"
+					},
+					{
+						"capilla": "NS de Lujan",
+						"hora": "12:15",
+						"sacerdote": "Eduardo"
+					}
+				]
+			}
+		]
+	}
+}

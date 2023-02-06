@@ -1,0 +1,51 @@
+<div id="home-snippet">
+	<div class="container" align="center">
+		<div class="row">
+			<div id="lema" class="textshadow visible-lg visible-md">
+				<em>
+					...hasta los confines de la tierra...
+				</em>
+			</div>
+		</div>
+		<div id="padres" class="row textshadow" style="height: inherit;">
+			<div class="col-md-3 col-sm-12 textshadow visible-lg visible-md" style="height: inherit;top:320px;">
+				<div>
+					Párroco: Padre Gustavo Brianese
+				</div>
+			</div>
+ 			<div class="col-md-6 col-sm-12">
+				<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+					<div class="carousel-inner">
+
+						<div id="novedades" class="item active">
+							<div style="font-size: 0.8em; margin-top: 203px; color: black;">Si desea colaborar con la Parroquia</div>
+							<div style="font-size: 0.8em; color: black;">por favor ver detalles en Economía</div>
+							<div id="novedades-title">Últimas publicaciones</div>
+							<div ng-repeat="novedad in carousel.list.novedades">
+								<div class="novedades-item">- {{ novedad.texto }}</div>
+							</div>
+							<div id="novedades-fecha">{{carousel.list.ultima_actualizacion}}</div>
+						</div>
+
+						<div class="item" ng-repeat="imagen in carousel.list.imagenes">
+							<img src="{{ imagen.archivo }}" alt="" class="responsive">
+						</div>
+					</div>
+
+					<a class="left carousel-control" href="#myCarousel" data-slide="prev" style="width: 15px;">
+						<span class="glyphicon glyphicon-chevron-left"></span>
+						<span class="sr-only">Previous</span>
+					</a>
+					<a class="right carousel-control" href="#myCarousel" data-slide="next" style="width: 15px;">
+						<span class="glyphicon glyphicon-chevron-right"></span>
+						<span class="sr-only">Next</span>
+					</a>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-12 textshadow visible-lg visible-md" style="height: inherit;top:320px;">
+				Vicario: Padre Eduardo de Paola
+			</div>
+		</div>
+ 	</div>
+</div>

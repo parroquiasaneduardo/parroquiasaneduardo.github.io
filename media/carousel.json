@@ -1,0 +1,39 @@
+{
+	"ultima_actualizacion": "22/01/2023",
+	"imagenes":
+	[
+		{
+			"archivo" : "images/carousel/SanEduardo.jpg"
+		},
+		{
+			"archivo" : "images/carousel/Teresita.jpg"
+		},
+		{
+			"archivo" : "images/carousel/El Buen Pastor.jpg"
+		},
+		{
+			"archivo" : "images/carousel/Pironio_gde.jpg"
+		},
+		{
+			"archivo" : "images/carousel/Jesus en el Monte.jpg"
+		}
+	],
+	"novedades":
+	[
+		{
+			"texto": "Homilía Domingo III Tiempo Ordinario"
+		},
+		{
+			"texto": "Homilía Domingo II Tiempo Ordinario"
+		},
+		{
+			"texto": "Homilía Bautismo del Señor"
+		},
+		{
+			"texto": "Balance Parroquia Diciembre 2022"
+		},
+		{
+			"texto": "Homilía Santa María Madre de Dios"
+		}
+	]
+}

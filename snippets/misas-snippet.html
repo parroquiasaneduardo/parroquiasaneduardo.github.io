@@ -1,0 +1,68 @@
+<div id="misas-snippet">
+	<h2 class="snippet-title">Horarios de Misas y Celebraciones</h2>
+
+<!-- 
+	<div align="center" style="margin-top: 25px;">
+		<img src="images/Protocolo Misas 2020.jpg" width="640px" class="img-responsive" />
+	</div>
+ 
+	<h2 style="text-align: -webkit-center; padding: 25px 10px;">
+		<a href="documents/Navidad2022.pdf" target="_blank" style="color: #337ab7; text-decoration: none;">
+			Horarios Navidad 2022&nbsp;(click aqui)</a>
+	</h2>
+ 	<div style="text-align: -webkit-center; padding: 25px 10px;">
+		Las Misas de Domingo 11 hs se seguirán transmitiendo en vivo en el canal de Youtube de la Parroquia.<br>
+		Los videos quedan disponibles y el audio de las homilías se continúa publicando en este sitio.
+	</div>
+-->
+	<div style="text-align: -webkit-center; padding: 25px 10px;">
+		Los audios de las homilias de las Misas de Domingo 11 hs se encuentran bajo Homilias en el sitio.
+	</div>
+
+	<h3 align="center">{{misas.list.semanales.intervalo}}</h3>
+
+	<div id="misas-content" align="middle" class="container">
+		<div id="misas-tipo" ng-repeat="misaTipo in misas.list.semanales.tipos">
+			<div>
+				<hr>
+			</div>
+			<div id="dia" class="col-md-4 col-sm-12 visible-sm visible-xs diaTipo">
+				{{misaTipo.descripcion}} - {{misaTipo.dias}}
+			</div>
+			<div class="row misas-detail" ng-repeat="misa in misaTipo.misas">
+				<div id="dia-hora" class="col-md-4 col-sm-12 visible-lg visible-md">
+					{{misaTipo.descripcion}} - {{misaTipo.dias}} a las {{ misa.hora }} hs
+				</div>
+				<div id="capilla" class="col-md-4 col-sm-12">
+					<span class="visible-sm visible-xs">
+						Capilla&nbsp;{{ misa.capilla }}
+					</span>
+					<span class="visible-md visible-lg">
+						{{ misa.capilla }}
+					</span>
+				</div>
+				<div id="horario" class="col-md-4 col-sm-12 visible-sm visible-xs">
+					{{ misa.hora }} hs
+				</div>
+				<!-- 				<div id="padre" class="col-md-3 col-sm-12">
+					<span class="visible-sm visible-xs">
+						{{ misa.cupo}} personas
+					</span>
+					<span class="visible-md visible-lg">
+						Hasta&nbsp;{{ misa.cupo}} personas
+					</span>
+				</div>
+ -->
+				<div id="padre" class="col-md-4 col-sm-12">
+					<span class="visible-sm visible-xs">
+						Padre&nbsp;{{ misa.sacerdote}}
+					</span>
+					<span class="visible-md visible-lg">
+						{{ misa.sacerdote}}
+					</span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div>&nbsp;</div>
+</div>

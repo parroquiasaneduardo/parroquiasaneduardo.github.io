@@ -1,0 +1,129 @@
+<!doctype html>
+<html ng-app="SanEduardoApp">
+<head>
+	<meta charset="utf-8">
+	<title>Parroquia San Eduardo</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="fonts/font-awesome.min.css">
+	<link rel="stylesheet" href="fonts/material-icons.min.css">
+	<link rel="stylesheet" href="css/styles.css">
+
+	<link href='https://fonts.googleapis.com/css?family=Lora' rel='stylesheet' type='text/css'>
+
+	<script src="js/jquery-2.1.4.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/ajax-utils.js"></script>
+	<script src="js/angular.min.js"></script>
+	<script src="js/app.js"></script>
+
+</head>
+
+<body ng-controller="MenuController as menuCtrl">
+
+	<header>
+		<nav id="header-nav" class="navbar navbar-default">
+		  <div class="container">
+		    <div class="navbar-header">
+		      <div class="navbar-brand">
+		        <a href="#" ng-click="menuCtrl.Inicio();"><h1>Parroquia San&nbsp;Eduardo</h1></a>
+			  </div>
+
+		      <button id="navbarToggle" type="button" class="navbar-toggle collapsed"
+		      		  data-toggle="collapse" data-target="#collapsable-nav" aria-expanded="false">
+		        <span class="sr-only">Toggle navigation</span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		        <span class="icon-bar"></span>
+		      </button>
+		    </div>
+
+		    <div id="collapsable-nav" class="collapse navbar-collapse">
+		       <ul id="nav-list" class="nav navbar-nav navbar-right">
+<!-- 		        <li id="navHomeButton">
+		          <a href="#" ng-click="menuCtrl.Inicio();">Inicio</a>
+		        </li>
+ -->		        <li id="navMisas">
+		          <a href="#" ng-click="menuCtrl.Misas();" title="Horarios de Misas y Celebraciones">Horarios</a>
+		        </li>
+		        <li id="navHomilias">
+		          <a href="#" ng-click="menuCtrl.Homilias();" title="Audio de Homilías de Domingos y Fiestas">Homilías</a>
+		        </li>
+		        <li id="navCapillas">
+		          <a href="#" ng-click="menuCtrl.Capillas();" title="Capillas de la Parroquia">Capillas</a>
+		        </li>
+		        <li id="navSacramentos">
+ 		          <a href="#" ng-click="menuCtrl.Sacramentos();" title="Bautismos y Matrimonios">Sacramentos</a>
+		        </li>
+		        <li id="navIglesia">
+ 		          <a href="#" ng-click="menuCtrl.Articulos();" title="Iglesia">Iglesia</a>
+		        </li>
+		        <li id="navRetiros">
+		          <a href="#" ng-click="menuCtrl.Retiros();" title="Retiros">Retiros</a>
+		        </li>
+		        <li id="navEconomia">
+					<a href="#" ng-click="menuCtrl.Economia();" title="Balances Económicos">Economía</a>
+		        </li>
+		        <li id="navCaritas">
+					<a href="#" ng-click="menuCtrl.Caritas();" title="Cáritas">Caritas</a>
+		        </li>
+		      </ul><!-- #nav-list -->
+		    </div><!-- .collapse .navbar-collapse -->
+		  </div><!-- .container -->
+		</nav><!-- #header-nav -->
+	</header>
+
+	<!-- Main content -->
+	<main-content id="main-content" ng-if="menuCtrl.inicio"></main-content>
+	<misas-content ng-if="menuCtrl.misas"></misas-content>
+	<homilias-content ng-if="menuCtrl.homilias"></homilias-content>
+	<capillas-content ng-if="menuCtrl.capillas"></capillas-content>
+	<sacramentos-content ng-if="menuCtrl.sacramentos"></sacramentos-content>
+	<retiros-content ng-if="menuCtrl.retiros"></retiros-content>
+	<economia-content ng-if="menuCtrl.economia"></economia-content>
+	<articulos-content ng-if="menuCtrl.articulos"></articulos-content>
+	<caritas-content ng-if="menuCtrl.caritas"></caritas-content>
+
+	<footer class="panel-footer">
+		<div id="redoracion" class="row textshadow" ng-if="menuCtrl.inicio">
+			<a href="mailto:redoracionbariloche@gmail.com" title="Envíe su pedido de Oración">
+				Red de Oración Bariloche
+			</a>
+		</div>
+		<div class="container">
+		  <div class="row">
+		    <section id="curas" class="col-sm-12 visible-sm visible-xs">
+		      <span>Sacerdotes:</span><br>
+		      <p>Párroco: Padre Gustavo Brianese<br>
+  				 Vicario: Padre Eduardo de Paola
+			  </p>
+		      <hr class="visible-sm visible-xs">
+		    </section>
+		    <section id="horarios" class="col-md-4 col-sm-12">
+		      <span>Horarios de secretaría:</span><br>
+		      <p>Martes a Sábado de 10:00 a 15:00 hs<br>
+		         Teléfono +54 294 444-8441</p>
+		      <hr class="visible-sm visible-xs">
+		    </section>
+		    <section id="contacto" class="col-md-4 col-sm-12">
+		      <span>Contactos:</span><br>
+		      <p>
+			      <a href="tel:294-444-8441">
+			      	+54 294 444-8441</a><br>
+			      <a href="tel:294-444-8984">
+			      	+54 294 444-8984 (sacerdotes)</a><br>
+			      <a id="email" href="mailto:secretaria@parroquiasaneduardo.com.ar" target="_blank">
+			      	secretaria@parroquiasaneduardo.com.ar</a>
+		      </p>
+		      <hr class="visible-sm visible-xs">
+		    </section>
+		    <section id="direccion" class="col-md-4 col-sm-12">
+		      <span>Dirección:</span><br>
+		      <p>Av. Bustillo km 25,5 - Llao Llao<br>Casilla Correo 1222 - R8400GAC<br>Bariloche, Rio Negro, Argentina</span></p>
+		    </section>
+		  </div>
+		</div>
+	</footer>
+</body>
+</html>

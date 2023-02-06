@@ -1,0 +1,113 @@
+{
+	"economia":
+	{
+		"tipos":
+		[
+			{
+				"enlace": "mensuales",
+				"titulo": "Mensuales",
+				"balances":
+				[
+					{
+						"anio": "2022",
+						"mes": "Diciembre",
+						"archivo": "SanEduardo_balance_202212.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Noviembre",
+						"archivo": "SanEduardo_balance_202211.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Octubre",
+						"archivo": "SanEduardo_balance_202210.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Setiembre",
+						"archivo": "SanEduardo_balance_202209.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Agosto",
+						"archivo": "SanEduardo_balance_202208.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Julio",
+						"archivo": "SanEduardo_balance_202207.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Junio",
+						"archivo": "SanEduardo_balance_202206.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Mayo",
+						"archivo": "SanEduardo_balance_202205.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Abril",
+						"archivo": "SanEduardo_balance_202204.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Marzo",
+						"archivo": "SanEduardo_balance_202203.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Febrero",
+						"archivo": "SanEduardo_balance_202202.pdf"
+					},
+					{
+						"anio": "2022",
+						"mes": "Enero",
+						"archivo": "SanEduardo_balance_202201.pdf"
+					}
+				]
+			},
+			{
+				"enlace": "anuales",
+				"titulo": "Anuales",
+				"balances":
+				[
+					{
+						"anio": "Año 2021",
+						"archivo": "SanEduardo_balance_2021.pdf"
+					},
+					{
+						"anio": "Año 2019",
+						"archivo": "SanEduardo_balance_2019.pdf"
+					},
+					{
+						"anio": "Año 2018",
+						"archivo": "SanEduardo_balance_2018.pdf"
+					},
+					{
+						"anio": "Año 2017",
+						"archivo": "SanEduardo_balance_2017.pdf"
+					},
+					{
+						"anio": "Año 2016",
+						"archivo": "SanEduardo_balance_2016.pdf"
+					},
+					{
+						"anio": "Año 2015",
+						"archivo": "SanEduardo_balance_2015.pdf"
+					}
+				]
+			},
+			{
+				"enlace": "santa-sede",
+				"titulo": "Santa Sede y Estado Vaticano",
+				"balances":
+				[
+				]
+			}
+		]
+	}
+}

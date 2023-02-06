@@ -1,0 +1,30 @@
+<div id="homilias-snippet">
+	<h2 class="snippet-title">Homilías</h2>
+
+	<div class="row">&nbsp;</div>
+	<div align="middle" class="container">
+		<div id="homilia-audio" class="col-md-3 col-sm-4 col-xs-12" ng-repeat="homilia in homilias.list.dominicales">
+			<hr class="hrblack visible-xs">
+			<div>
+				<span>
+					<a target="_blank" href="{{ homilia.audio }}">
+			          	<i class="glyphicon glyphicon-headphones"></i>
+						 {{ homilia.descripcion }}
+					</a>
+				</span>
+			</div>
+			<div id="homilia-descripcion">
+				<em>
+					Tiempo {{ homilia.tiempo }}
+				</em>
+			</div>
+			<div id="homilia-fecha">
+				({{ homilia.fecha}})
+			</div>
+			<div class="row home-icon visible-xs">
+				<a href="#homilias-snippet"><i class="fa fa-chevron-circle-up"></i></a>
+			</div>
+		</div>
+	</div>
+	<div>&nbsp;</div>
+</div>

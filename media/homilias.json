@@ -1,0 +1,326 @@
+{
+	"dominicales":
+	[
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo III",
+			"fecha" : "22/01/2023",
+			"audio" : "media/homilias/Domingo III Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo II",
+			"fecha" : "15/01/2023",
+			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "de Navidad",
+			"descripcion": "Bautismo del Señor",
+			"fecha" : "08/01/2023",
+			"audio" : "media/homilias/Bautismo2023.mp3"
+		},
+		{
+			"tiempo": "de Navidad",
+			"descripcion": "Santa María Madre de Dios",
+			"fecha" : "01/01/2023",
+			"audio" : "media/homilias/StaMariaMadreDios2023.mp3"
+		},
+		{
+			"tiempo": "de Navidad",
+			"descripcion": "Navidad",
+			"fecha" : "25/12/2022",
+			"audio" : "media/homilias/Navidad 2022.mp3"
+		},
+		{
+			"tiempo": "de Navidad",
+			"descripcion": "Nochebuena",
+			"fecha" : "24/12/2022",
+			"audio" : "media/homilias/Nochebuena 2022.mp3"
+		},
+		{
+			"tiempo": "de Adviento",
+			"descripcion": "Cuarto Domingo",
+			"fecha" : "18/12/2022",
+			"audio" : "media/homilias/4to Domingo Adviento 2022.mp3"
+		},
+		{
+			"tiempo": "de Adviento",
+			"descripcion": "Tercer Domingo",
+			"fecha" : "11/12/2022",
+			"audio" : "media/homilias/3er Domingo Adviento 2022.mp3"
+		},
+		{
+			"tiempo": "de Adviento",
+			"descripcion": "Segundo Domingo",
+			"fecha" : "04/12/2022",
+			"audio" : "media/homilias/2do Domingo Adviento 2022.mp3"
+		},
+		{
+			"tiempo": "de Adviento",
+			"descripcion": "Primer Domingo",
+			"fecha" : "27/11/2022",
+			"audio" : "media/homilias/1er Domingo Adviento 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Cristo Rey",
+			"fecha" : "20/11/2022",
+			"audio" : "media/homilias/Cristo Rey 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXXIII",
+			"fecha" : "13/11/2022",
+			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXXII",
+			"fecha" : "06/11/2022",
+			"audio" : "media/homilias/Domingo XXXII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Todos los Santos",
+			"fecha" : "01/11/2022",
+			"audio" : "media/homilias/Todos los Santos 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXXI",
+			"fecha" : "30/10/2022",
+			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXX",
+			"fecha" : "23/10/2022",
+			"audio" : "media/homilias/Domingo XXX Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXIX",
+			"fecha" : "16/10/2022",
+			"audio" : "media/homilias/Domingo XXIX Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXVIII",
+			"fecha" : "12/10/2022",
+			"audio" : "media/homilias/Domingo XXVIII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXVII",
+			"fecha" : "02/10/2022",
+			"audio" : "media/homilias/Domingo XXVII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXVI",
+			"fecha" : "25/09/2022",
+			"audio" : "media/homilias/Domingo XXVI Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXV",
+			"fecha" : "18/09/2022",
+			"audio" : "media/homilias/Domingo XXV Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXIII",
+			"fecha" : "04/09/2022",
+			"audio" : "media/homilias/Domingo XXIII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXII",
+			"fecha" : "28/08/2022",
+			"audio" : "media/homilias/Domingo XXII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XXI",
+			"fecha" : "21/08/2022",
+			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XX",
+			"fecha" : "14/08/2022",
+			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XIX",
+			"fecha" : "07/08/2022",
+			"audio" : "media/homilias/Domingo XIX Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XVIII",
+			"fecha" : "31/07/2022",
+			"audio" : "media/homilias/Domingo XVIII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XVII",
+			"fecha" : "24/07/2022",
+			"audio" : "media/homilias/Domingo XVII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XVI",
+			"fecha" : "17/07/2022",
+			"audio" : "media/homilias/Domingo XVI Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XV",
+			"fecha" : "10/07/2022",
+			"audio" : "media/homilias/Domingo XV Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XIV",
+			"fecha" : "03/07/2022",
+			"audio" : "media/homilias/Domingo XIV Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo XIII",
+			"fecha" : "26/06/2022",
+			"audio" : "media/homilias/Domingo XIII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Corpus Christi",
+			"fecha" : "19/06/2022",
+			"audio" : "media/homilias/Corpus_Christi2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Santisima Trinidad",
+			"fecha" : "12/06/2022",
+			"audio" : "media/homilias/Santisima_Trinidad2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Pentecostés",
+			"fecha" : "05/06/2022",
+			"audio" : "media/homilias/Pentecostes2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Ascención de Jesús",
+			"fecha" : "29/05/2022",
+			"audio" : "media/homilias/Ascension de Jesus 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Sexto Domingo",
+			"fecha" : "22/05/2022",
+			"audio" : "media/homilias/6to Domingo Tiempo Pascual 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Quinto Domingo",
+			"fecha" : "15/05/2022",
+			"audio" : "media/homilias/5to Domingo Tiempo Pascual 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Cuarto Domingo",
+			"fecha" : "08/05/2022",
+			"audio" : "media/homilias/4to Domingo Tiempo Pascual 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Tercer Domingo",
+			"fecha" : "01/05/2022",
+			"audio" : "media/homilias/3er Domingo Tiempo Pascual 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Segundo Domingo",
+			"fecha" : "24/04/2022",
+			"audio" : "media/homilias/2do Domingo Tiempo Pascual 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Vigilia Pascual",
+			"fecha" : "16/04/2022",
+			"audio" : "media/homilias/Vigilia Pascual 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Viernes Santo",
+			"fecha" : "15/04/2022",
+			"audio" : "media/homilias/Viernes Santo 2022.mp3"
+		},
+		{
+			"tiempo": "de Pascua",
+			"descripcion": "Jueves Santo",
+			"fecha" : "14/04/2022",
+			"audio" : "media/homilias/Jueves Santo 2022.mp3"
+		},
+		{
+			"tiempo": "de Cuaresma",
+			"descripcion": "Domingo de Ramos",
+			"fecha" : "10/04/2022",
+			"audio" : "media/homilias/Domingo de Ramos 2022.mp3"
+		},
+		{
+			"tiempo": "de Cuaresma",
+			"descripcion": "Quinto Domingo",
+			"fecha" : "03/04/2021",
+			"audio" : "media/homilias/5to Domingo Tiempo Cuaresma 2022.mp3"
+		},
+		{
+			"tiempo": "de Cuaresma",
+			"descripcion": "Cuarto Domingo",
+			"fecha" : "27/03/2022",
+			"audio" : "media/homilias/4to Domingo Tiempo Cuaresma 2022.mp3"
+		},
+		{
+			"tiempo": "de Cuaresma",
+			"descripcion": "Tercer Domingo",
+			"fecha" : "20/03/2022",
+			"audio" : "media/homilias/3er Domingo Tiempo Cuaresma 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo VIII",
+			"fecha" : "27/02/2022",
+			"audio" : "media/homilias/Domingo VIII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo VII",
+			"fecha" : "20/02/2022",
+			"audio" : "media/homilias/Domingo VII Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo VI",
+			"fecha" : "13/02/2022",
+			"audio" : "media/homilias/Domingo VI Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo V",
+			"fecha" : "06/02/2022",
+			"audio" : "media/homilias/Domingo V Tiempo Ordinario 2022.mp3"
+		},
+		{
+			"tiempo": "Ordinario",
+			"descripcion": "Domingo IV",
+			"fecha" : "30/01/2022",
+			"audio" : "media/homilias/Domingo IV Tiempo Ordinario 2022.mp3"
+		}
+	],
+	"historicas":
+	[
+	]
+}

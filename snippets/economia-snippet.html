@@ -1,0 +1,44 @@
+<div id="balances-snippet">
+	<h2 class="snippet-title">Economía - Balances</h2>
+	<div>&nbsp;</div>
+
+	<div id="balances-header" align="middle" class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<div>&nbsp;</div>
+				<div style="text-align: left;">
+					Nuestra Parroquia no recibe ayuda económica de ningún tipo, ni del Gobierno, ni del Obispado ni del Vaticano.</br>
+					Afronta todos sus gastos de sueldos, luz, agua, gas y teléfono EXCLUSIVAMENTE del aporte que los fieles hacen en las Misas y los aportes voluntarios por otros sacramentos.</br>
+					Sabemos los difíciles momentos que todos pasan.</br>
+					Si alguno puede, con transferencia bancaria, ayudarnos a seguir manteniendo la Parroquia, se los agradeceremos de todo corazón. Muchas gracias!</br></br>
+					<div style="font-weight: 700; margin-bottom: 36px;">
+						BBVA – Sucursal Bariloche, Argentina - Av. San Martín 366</br>
+						Cuenta Corriente Nº 258-20-004916-1-00</br>
+						Entidad titular: Parroquia San Eduardo</br>
+						CBU: 0170258520000000491615</br>
+						CUIT Nº 30709356050</br>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="balances-top" class="row">
+ 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-12" ng-repeat="balanceTipo in balances.list.economia.tipos">
+				<a href="#{{balanceTipo.enlace}}" class="intralink">{{ balanceTipo.titulo }}</a>
+			</div>
+		</div>
+		<hr>
+	 	<div id="balances-tipo" class="col-lg-12" ng-repeat="balanceTipo in balances.list.economia.tipos">
+			<div id={{balanceTipo.enlace}}>
+				<h3>{{ balanceTipo.titulo }}</h3>
+				<div>&nbsp;</div>
+			</div>
+ 			<div id="balancesTipo-top" class="row">
+				<div class="col-md-3 col-sm-4 col-xs-6" ng-repeat="balance in balanceTipo.balances">
+					<a href="documents/Balances/{{ balance.archivo }}" target="_blank">{{ balance.mes}} {{ balance.anio }}</a>
+				</div>
+			</div>
+			<hr>
+		</div>
+	</div>
+	<div>&nbsp;</div>
+</div>

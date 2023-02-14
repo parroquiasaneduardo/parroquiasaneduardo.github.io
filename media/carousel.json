@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "22/01/2023",
+	"ultima_actualizacion": "12/02/2023",
 	"imagenes":
 	[
 		{
@@ -21,19 +21,16 @@
 	"novedades":
 	[
 		{
-			"texto": "Homilía Domingo III Tiempo Ordinario"
+			"texto": "Homilía Domingo VI Tiempo Ordinario"
 		},
 		{
-			"texto": "Homilía Domingo II Tiempo Ordinario"
+			"texto": "Homilía Domingo V Tiempo Ordinario"
 		},
 		{
-			"texto": "Homilía Bautismo del Señor"
+			"texto": "Balance Parroquia Enero 2023"
 		},
 		{
-			"texto": "Balance Parroquia Diciembre 2022"
-		},
-		{
-			"texto": "Homilía Santa María Madre de Dios"
+			"texto": "Horarios Febrero 2023"
 		}
 	]
 }

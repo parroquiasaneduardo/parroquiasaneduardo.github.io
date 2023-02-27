@@ -2,6 +2,12 @@
 	"dominicales":
 	[
 		{
+			"tiempo": "Cuaresma",
+			"descripcion": "Domingo I",
+			"fecha" : "12/02/2023",
+			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2023.mp3"
+		},
+		{
 			"tiempo": "Ordinario",
 			"descripcion": "Domingo VI",
 			"fecha" : "12/02/2023",

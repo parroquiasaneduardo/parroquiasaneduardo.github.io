@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "de Cuaresma",
+			"descripcion": "Domingo II",
+			"fecha" : "05/03/2023",
+			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2023.mp3"
+		},
+		{
+			"tiempo": "de Cuaresma",
 			"descripcion": "Domingo I",
 			"fecha" : "26/02/2023",
 			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2023.mp3"

@@ -7,7 +7,12 @@
 				"enlace": "mensuales",
 				"titulo": "Mensuales",
 				"balances":
-				[
+				[					
+					{
+						"anio": "2023",
+						"mes": "Febrero",
+						"archivo": "SanEduardo_balance_202302.pdf"
+					},
 					{
 						"anio": "2023",
 						"mes": "Enero",

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "06/03/2023",
+	"ultima_actualizacion": "26/03/2023",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Horarios Semana Santa 2023"
+		},
 		{
 			"texto": "Balance Parroquia Febrero 2023"
 		},

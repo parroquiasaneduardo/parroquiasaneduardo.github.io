@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "26/03/2023",
+	"ultima_actualizacion": "01/04/2023",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Marzo 2023"
+		},
+		{
 			"texto": "Homilía Domingo V Tiempo Cuaresmal"
 		},
 		{
 			"texto": "Horarios Semana Santa 2023"
-		},
-		{
-			"texto": "Balance Parroquia Febrero 2023"
 		}
 	]
 }

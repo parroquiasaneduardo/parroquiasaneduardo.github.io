@@ -192,12 +192,6 @@
 			"descripcion": "Domingo XX",
 			"fecha" : "14/08/2022",
 			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2022.mp3"
-		},
-		{
-			"tiempo": "Ordinario",
-			"descripcion": "Domingo XIX",
-			"fecha" : "07/08/2022",
-			"audio" : "media/homilias/Domingo XIX Tiempo Ordinario 2022.mp3"
 		}
 	],
 	"historicas":

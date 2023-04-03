@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "01/04/2023",
+	"ultima_actualizacion": "02/04/2023",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Domingo de Ramos"
+		},
 		{
 			"texto": "Balance Parroquia Marzo 2023"
 		},

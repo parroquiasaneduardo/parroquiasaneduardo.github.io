@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "02/04/2023",
+	"ultima_actualizacion": "06/04/2023",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Jueves Santo"
+		},
+		{
 			"texto": "Homilía Domingo de Ramos"
 		},
 		{
 			"texto": "Balance Parroquia Marzo 2023"
-		},
-		{
-			"texto": "Homilía Domingo V Tiempo Cuaresmal"
 		},
 		{
 			"texto": "Horarios Semana Santa 2023"

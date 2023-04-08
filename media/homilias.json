@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Semana Santa",
+			"descripcion": "Viernes Santo",
+			"fecha" : "07/04/2023",
+			"audio" : "media/homilias/Viernes Santo 2023.mp3"
+		},
+		{
+			"tiempo": "Semana Santa",
 			"descripcion": "Jueves Santo",
 			"fecha" : "06/04/2023",
 			"audio" : "media/homilias/Jueves Santo 2023.mp3"

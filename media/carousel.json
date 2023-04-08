@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "06/04/2023",
+	"ultima_actualizacion": "08/04/2023",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Viernes Santo"
+		},
 		{
 			"texto": "Homilía Jueves Santo"
 		},

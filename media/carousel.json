@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Vigilia Pascual"
+		},
+		{
 			"texto": "Homilía Viernes Santo"
 		},
 		{
@@ -31,9 +34,6 @@
 		},
 		{
 			"texto": "Balance Parroquia Marzo 2023"
-		},
-		{
-			"texto": "Horarios Semana Santa 2023"
 		}
 	]
 }

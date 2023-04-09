@@ -6,12 +6,6 @@
 			"archivo" : "images/carousel/Pascua 2023.jpg"
 		},
 		{
-			"archivo" : "images/carousel/SanEduardo.jpg"
-		},
-		{
-			"archivo" : "images/carousel/Teresita.jpg"
-		},
-		{
 			"archivo" : "images/carousel/El Buen Pastor.jpg"
 		},
 		{
@@ -21,19 +15,13 @@
 	"novedades":
 	[
 		{
-			"texto": "Homilía Vigilia Pascual"
-		},
-		{
-			"texto": "Homilía Viernes Santo"
-		},
-		{
-			"texto": "Homilía Jueves Santo"
-		},
-		{
-			"texto": "Homilía Domingo de Ramos"
+			"texto": "Homilías Triduo Pascual"
 		},
 		{
 			"texto": "Balance Parroquia Marzo 2023"
+		},
+		{
+			"texto": "Homilía Domingo de Ramos"
 		}
 	]
 }

@@ -1,6 +1,11 @@
 {
 	"dominicales":
-	[
+	[	{
+			"tiempo": "Semana Santa",
+			"descripcion": "II Domingo de Pascua",
+			"fecha" : "16/04/2023",
+			"audio" : "media/homilias/II Domingo de Pascua 2023.mp3"
+		},
 		{
 			"tiempo": "Semana Santa",
 			"descripcion": "Vigilia Pascual",

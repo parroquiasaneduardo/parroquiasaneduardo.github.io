@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "09/04/2023",
+	"ultima_actualizacion": "17/04/2023",
 	"imagenes":
 	[
 		{
@@ -14,6 +14,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía 2do Domingo de Pascua"
+		},
 		{
 			"texto": "Homilías Triduo Pascual"
 		},

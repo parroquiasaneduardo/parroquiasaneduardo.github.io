@@ -1,6 +1,13 @@
 {
 	"dominicales":
-	[	{
+	[
+		{
+			"tiempo": "Tiempo de Pascua",
+			"descripcion": "3er Domingo de Pascua",
+			"fecha" : "23/04/2023",
+			"audio" : "media/homilias/III Domingo de Pascua 2023.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Pascua",
 			"descripcion": "2do Domingo de Pascua",
 			"fecha" : "16/04/2023",

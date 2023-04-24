@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "17/04/2023",
+	"ultima_actualizacion": "23/04/2023",
 	"imagenes":
 	[
 		{
@@ -15,6 +15,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía 3er Domingo de Pascua"
+		},
+		{
 			"texto": "Homilía 2do Domingo de Pascua"
 		},
 		{
@@ -22,9 +25,6 @@
 		},
 		{
 			"texto": "Balance Parroquia Marzo 2023"
-		},
-		{
-			"texto": "Homilía Domingo de Ramos"
 		}
 	]
 }

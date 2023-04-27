@@ -76,6 +76,10 @@
 				"balances":
 				[
 					{
+						"anio": "Año 2022",
+						"archivo": "SanEduardo_balance_2022.pdf"
+					},
+					{
 						"anio": "Año 2021",
 						"archivo": "SanEduardo_balance_2021.pdf"
 					},

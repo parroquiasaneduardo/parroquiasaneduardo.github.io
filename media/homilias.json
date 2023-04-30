@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "4to Domingo de Pascua",
+			"fecha" : "30/04/2023",
+			"audio" : "media/homilias/IV Domingo de Pascua 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "3er Domingo de Pascua",
 			"fecha" : "23/04/2023",
 			"audio" : "media/homilias/III Domingo de Pascua 2023.mp3"

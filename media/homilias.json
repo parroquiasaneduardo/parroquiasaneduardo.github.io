@@ -2,6 +2,12 @@
 	"dominicales":
 	[
 		{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Santísima Trinidad",
+			"fecha" : "04/06/2023",
+			"audio" : "media/homilias/Santisima Trinidad 2023.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Pascua",
 			"descripcion": "Fiesta de Pentecostés",
 			"fecha" : "28/05/2023",

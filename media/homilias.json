@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Corpus Christi",
+			"fecha" : "11/06/2023",
+			"audio" : "media/homilias/Corpus Christi 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Santísima Trinidad",
 			"fecha" : "04/06/2023",
 			"audio" : "media/homilias/Santisima Trinidad 2023.mp3"

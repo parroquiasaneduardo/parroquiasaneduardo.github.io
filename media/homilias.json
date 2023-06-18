@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XI",
+			"fecha" : "18/06/2023",
+			"audio" : "media/homilias/Domingo XI Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Corpus Christi",
 			"fecha" : "11/06/2023",
 			"audio" : "media/homilias/Corpus Christi 2023.mp3"
@@ -258,12 +264,6 @@
 			"descripcion": "Domingo XXI",
 			"fecha" : "21/08/2022",
 			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XX",
-			"fecha" : "14/08/2022",
-			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2022.mp3"
 		}
 	],
 	"historicas":

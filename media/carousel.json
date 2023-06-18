@@ -1,9 +1,12 @@
 {
-	"ultima_actualizacion": "17/06/2023",
+	"ultima_actualizacion": "18/06/2023",
 	"imagenes":
 	[
 		{
-			"archivo" : "images/carousel/Colecta Caritas 2023.jpg"
+			"archivo" : "images/carousel/SanEduardo.jpg"
+		},
+		{
+			"archivo" : "images/carousel/Teresita.jpg"
 		},
 		{
 			"archivo" : "images/carousel/El Buen Pastor.jpg"
@@ -15,13 +18,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XI Tiempo Ordinario"
+		},
+		{
 			"texto": "Matrimonios: requisitos 2023/2024"
 		},
 		{
-			"texto": "Homilía Corpus Christi"
-		},
-		{
-			"texto": "Balance Parroquia Mayo 2022"
+			"texto": "Balance Parroquia Mayo 2023"
 		},
 		{
 			"texto": "Nuevo correo electrónico Secretaría"

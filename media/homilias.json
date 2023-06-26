@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XII",
+			"fecha" : "25/06/2023",
+			"audio" : "media/homilias/Domingo XII Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XI",
 			"fecha" : "18/06/2023",
 			"audio" : "media/homilias/Domingo XI Tiempo Ordinario 2023.mp3"

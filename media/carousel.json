@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "27/06/2023",
+	"ultima_actualizacion": "02/07/2023",
 	"imagenes":
 	[
 		{
@@ -18,6 +18,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XIII Tiempo Ordinario"
+		},
+		{
 			"texto": "QR Colectas y Donaciones en Economía"
 		},
 		{
@@ -25,9 +28,6 @@
 		},
 		{
 			"texto": "Matrimonios: requisitos 2023/2024"
-		},
-		{
-			"texto": "Nuevo correo electrónico Secretaría"
 		}
 	]
 }

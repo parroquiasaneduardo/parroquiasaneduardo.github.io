@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XIX",
+			"fecha" : "13/08/2023",
+			"audio" : "media/homilias/Domingo XIX Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XVIII",
 			"fecha" : "06/08/2023",
 			"audio" : "media/homilias/Domingo XVIII Tiempo Ordinario 2023.mp3"

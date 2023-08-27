@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXI",
+			"fecha" : "27/08/2023",
+			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2023.mp3"
+		}
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XX",
 			"fecha" : "20/08/2023",
 			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2023.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Domingo XXII",
 			"fecha" : "28/08/2022",
 			"audio" : "media/homilias/Domingo XXII Tiempo Ordinario 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXI",
-			"fecha" : "21/08/2022",
-			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2022.mp3"
 		}
 	],
 	"historicas":

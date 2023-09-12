@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "03/09/2023",
+	"ultima_actualizacion": "11/09/2023",
 	"imagenes":
 	[
 		{
@@ -18,13 +18,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XXIII Tiempo Ordinario"
+		},
+		{
 			"texto": "Homilía Domingo XXII Tiempo Ordinario"
 		},
 		{
 			"texto": "Balance Parroquia Julio 2023"
-		},
-		{
-			"texto": "Homilía Domingo XXI Tiempo Ordinario"
 		}
 	]
 }

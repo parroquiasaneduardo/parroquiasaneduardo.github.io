@@ -3,6 +3,12 @@
 	[
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXV",
+			"fecha" : "24/09/2023",
+			"audio" : "media/homilias/Domingo XXV Tiempo Ordinario 2023.mp3"
+		}
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXIII",
 			"fecha" : "10/09/2023",
 			"audio" : "media/homilias/Domingo XXIII Tiempo Ordinario 2023.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Domingo XXVI",
 			"fecha" : "25/09/2022",
 			"audio" : "media/homilias/Domingo XXVI Tiempo Ordinario 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXV",
-			"fecha" : "18/09/2022",
-			"audio" : "media/homilias/Domingo XXV Tiempo Ordinario 2022.mp3"
 		}
 	],
 	"historicas":

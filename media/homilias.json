@@ -1,6 +1,11 @@
 {
 	"dominicales":
-	[
+	[	{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXVI",
+			"fecha" : "01/10/2023",
+			"audio" : "media/homilias/Domingo XXVI Tiempo Ordinario 2023.mp3"
+		},
 		{
 			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXV",

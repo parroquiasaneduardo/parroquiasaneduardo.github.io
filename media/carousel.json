@@ -18,16 +18,16 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios de misa"
+		},
+		{
+			"texto": "Balance Parroquia Septiembre 2023"
+		},
+		{
 			"texto": "Homilía Domingo XXVII Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Domingo XXVI Tiempo Ordinario"
-		},
-		{
-			"texto": "Homilía Domingo XXV Tiempo Ordinario"
-		},
-		{
-			"texto": "Balance Parroquia Agosto 2023"
 		}
 	]
 }

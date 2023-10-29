@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "23/10/2023",
+	"ultima_actualizacion": "29/10/2023",
 	"imagenes":
 	[
 		{
@@ -17,6 +17,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Domingo XXX Tiempo Ordinario"
+		},
 		{
 			"texto": "Homilía Domingo XXIX Tiempo Ordinario"
 		},

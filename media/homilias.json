@@ -3,10 +3,16 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXX",
+			"fecha" : "29/10/2023",
+			"audio" : "media/homilias/Domingo XXX Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXIX",
 			"fecha" : "22/10/2023",
 			"audio" : "media/homilias/Domingo XXIX Tiempo Ordinario 2023.mp3"
-		}
+		},
 		{
 			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXVIII",
@@ -306,12 +312,6 @@
 			"descripcion": "Domingo XXXI",
 			"fecha" : "30/10/2022",
 			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXX",
-			"fecha" : "23/10/2022",
-			"audio" : "media/homilias/Domingo XXX Tiempo Ordinario 2022.mp3"
 		}
 	],
 	"historicas":

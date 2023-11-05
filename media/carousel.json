@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "29/10/2023",
+	"ultima_actualizacion": "05/11/2023",
 	"imagenes":
 	[
 		{
@@ -18,19 +18,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Octubre 2023"
+		},
+		{
 			"texto": "Homilía Domingo XXX Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Domingo XXIX Tiempo Ordinario"
-		},
-		{
-			"texto": "Homilía Domingo XXVIII Tiempo Ordinario"
-		},
-		{
-			"texto": "Horarios de Misa"
-		},
-		{
-			"texto": "Balance Parroquia Septiembre 2023"
 		}
 	]
 }

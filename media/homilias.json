@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXXI",
+			"fecha" : "05/11/2023",
+			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXX",
 			"fecha" : "29/10/2023",
 			"audio" : "media/homilias/Domingo XXX Tiempo Ordinario 2023.mp3"

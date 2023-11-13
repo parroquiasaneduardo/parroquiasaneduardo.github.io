@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXXII",
+			"fecha" : "12/11/2023",
+			"audio" : "media/homilias/Domingo XXXII Tiempo Ordinario 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXXI",
 			"fecha" : "05/11/2023",
 			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2023.mp3"
@@ -312,13 +318,7 @@
 			"descripcion": "Todos los Santos",
 			"fecha" : "01/11/2022",
 			"audio" : "media/homilias/Todos los Santos 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXXI",
-			"fecha" : "30/10/2022",
-			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2022.mp3"
-		}
+		}	
 	],
 	"historicas":
 	[

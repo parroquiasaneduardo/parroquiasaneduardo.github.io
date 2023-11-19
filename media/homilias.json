@@ -9,12 +9,6 @@
 		},
 		{
 			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXXIII",
-			"fecha" : "13/11/2022",
-			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXXII",
 			"fecha" : "12/11/2023",
 			"audio" : "media/homilias/Domingo XXXII Tiempo Ordinario 2023.mp3"

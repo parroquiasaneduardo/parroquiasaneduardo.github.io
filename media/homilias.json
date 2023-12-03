@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Primer Domingo",
+			"fecha" : "03/12/2023",
+			"audio" : "media/homilias/1er Domingo Adviento 2023.mp3"
+		},
+		{
 			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Cristo Rey",
 			"fecha" : "26/11/2023",
@@ -300,12 +306,6 @@
 			"descripcion": "Segundo Domingo",
 			"fecha" : "04/12/2022",
 			"audio" : "media/homilias/2do Domingo Adviento 2022.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Primer Domingo",
-			"fecha" : "27/11/2022",
-			"audio" : "media/homilias/1er Domingo Adviento 2022.mp3"
 		}
 	],
 	"historicas":

@@ -18,6 +18,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Noviembre 2023"
+		},
+		{
 			"texto": "Homilía 1er Domingo de Adviento"
 		},
 		{
@@ -25,9 +28,6 @@
 		},
 		{
 			"texto": "Homilía Domingo XXXIII Tiempo Ordinario"
-		},
-		{
-			"texto": "Balance Parroquia Octubre 2023"
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "03/12/2023",
+	"ultima_actualizacion": "08/12/2023",
 	"imagenes":
 	[
 		{
@@ -18,6 +18,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Inmaculada Concepción"
+		}
+		{
 			"texto": "Balance Parroquia Noviembre 2023"
 		},
 		{
@@ -25,9 +28,6 @@
 		},
 		{
 			"texto": "Homilía Cristo Rey"
-		},
-		{
-			"texto": "Homilía Domingo XXXIII Tiempo Ordinario"
 		}
 	]
 }

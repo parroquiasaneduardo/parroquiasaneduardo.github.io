@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Inmaculada Concepción",
+			"fecha" : "08/12/2023",
+			"audio" : "media/homilias/Inmaculada Concepcion 2023.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Adviento",
 			"descripcion": "Primer Domingo",
 			"fecha" : "03/12/2023",
 			"audio" : "media/homilias/1er Domingo Adviento 2023.mp3"

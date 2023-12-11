@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "08/12/2023",
+	"ultima_actualizacion": "10/12/2023",
 	"imagenes":
 	[
 		{
@@ -18,16 +18,16 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía 2do Domingo de Adviento"
+		},
+		{
 			"texto": "Homilía Inmaculada Concepción"
-		}
+		},
 		{
 			"texto": "Balance Parroquia Noviembre 2023"
 		},
 		{
 			"texto": "Homilía 1er Domingo de Adviento"
-		},
-		{
-			"texto": "Homilía Cristo Rey"
 		}
 	]
 }

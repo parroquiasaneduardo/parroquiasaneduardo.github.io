@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios Navidad 2023"
+		},
+		{
 			"texto": "Homilía 3er Domingo de Adviento"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía Inmaculada Concepción"
-		},
-		{
-			"texto": "Balance Parroquia Noviembre 2023"
 		}
 	]
 }

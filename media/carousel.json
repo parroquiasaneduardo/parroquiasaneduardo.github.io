@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "10/12/2023",
+	"ultima_actualizacion": "17/12/2023",
 	"imagenes":
 	[
 		{
@@ -21,7 +21,7 @@
 	"novedades":
 	[
 		{
-			"texto": "Beatificación Cardenal Eduardo Pironio"
+			"texto": "Homilía 3er Domingo de Adviento"
 		},
 		{
 			"texto": "Homilía 2do Domingo de Adviento"
@@ -31,9 +31,6 @@
 		},
 		{
 			"texto": "Balance Parroquia Noviembre 2023"
-		},
-		{
-			"texto": "Homilía 1er Domingo de Adviento"
 		}
 	]
 }

@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Desde 14 de Octubre 2023",
+		"intervalo": "Del 1 al 31 de Enero 2024",
 		"tipos":
 		[
 			{
@@ -68,27 +68,27 @@
 			},
 			{
 				"descripcion": "Diaria",
-				"dias": "Lunes a Viernes",
-				"misas":
-				[
-					{
-						"capilla": "Carmelitas",
-						"hora": "19:00",
-						"cupo": "20",
-						"sacerdote": "Gustavo/Eduardo"
-					}
-				]
-			},
-			{
-				"descripcion": "Diaria",
-				"dias": "Sábados",
+				"dias": "Lunes a Sábado",
 				"misas":
 				[
 					{
 						"capilla": "Carmelitas",
 						"hora": "11:00",
+						"cupo": "20",
+						"sacerdote": "Eduardo"
+					}
+				]
+			},
+			{
+				"descripcion": "Diaria",
+				"dias": "Lunes a Viernes",
+				"misas":
+				[
+					{
+						"capilla": "San Eduardo",
+						"hora": "19:00",
 						"cupo": "25",
-						"sacerdote": "Gustavo/Eduardo"
+						"sacerdote": "Gustavo"
 					}
 				]
 			}

@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Sagrada Familia",
+			"fecha" : "31/12/2023",
+			"audio" : "media/homilias/Sagrada Familia 2023.mp3"
+		}
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Nochebuena",
 			"fecha" : "25/12/2023",
 			"audio" : "media/homilias/Nochebuena 2023.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Santa María Madre de Dios",
 			"fecha" : "01/01/2023",
 			"audio" : "media/homilias/StaMariaMadreDios2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Navidad",
-			"fecha" : "25/12/2022",
-			"audio" : "media/homilias/Navidad 2022.mp3"
 		}
 	],
 	"historicas":

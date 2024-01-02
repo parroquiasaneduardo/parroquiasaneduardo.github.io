@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Santa María Madre de Dios",
+			"fecha" : "01/01/2024",
+			"audio" : "media/homilias/StaMariaMadreDios2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Sagrada Familia",
 			"fecha" : "31/12/2023",
 			"audio" : "media/homilias/Sagrada Familia 2023.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Bautismo del Señor",
 			"fecha" : "08/01/2023",
 			"audio" : "media/homilias/Bautismo2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Santa María Madre de Dios",
-			"fecha" : "01/01/2023",
-			"audio" : "media/homilias/StaMariaMadreDios2023.mp3"
 		}
 	],
 	"historicas":

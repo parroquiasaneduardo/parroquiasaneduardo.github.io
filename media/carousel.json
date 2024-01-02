@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "31/12/2023",
+	"ultima_actualizacion": "01/01/2024",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Sta María Madre de Dios"
+		},
+		{
 			"texto": "Horarios Enero 2024"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía Nochebuena"
-		},
-		{
-			"texto": "Homilía 4to Domingo de Adviento"
 		},
 		{
 			"texto": "Homilía Inmaculada Concepción"

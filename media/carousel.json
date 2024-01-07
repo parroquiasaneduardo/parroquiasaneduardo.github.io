@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Bautismo del Señor"
+		},
+		{
 			"texto": "Homilía Epifanía"
 		},
 		{
@@ -31,9 +34,6 @@
 		},
 		{
 			"texto": "Homilía Sagrada Familia"
-		},
-		{
-			"texto": "Homilía Nochebuena"
 		}
 	]
 }

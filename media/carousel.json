@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Diciembre 2023"
+		},
+		{
 			"texto": "Homilía Domingo II de Tiempo Ordinario"
 		},
 		{
@@ -34,9 +37,6 @@
 		},
 		{
 			"texto": "Horarios Enero 2024"
-		},
-		{
-			"texto": "Homilía Sagrada Familia"
 		}
 	]
 }

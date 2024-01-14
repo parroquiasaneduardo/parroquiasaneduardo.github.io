@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "06/01/2024",
+	"ultima_actualizacion": "14/01/2024",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Domingo II de Tiempo Ordinario"
+		},
 		{
 			"texto": "Homilía Bautismo del Señor"
 		},

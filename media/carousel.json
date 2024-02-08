@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "04/02/2024",
+	"ultima_actualizacion": "08/02/2024",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Balance Parroquia Enero 2024"
+		},
 		{
 			"texto": "Homilía Domingo V de Tiempo Ordinario"
 		},

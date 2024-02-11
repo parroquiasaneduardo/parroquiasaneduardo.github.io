@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Del 1 al 31 de Enero 2024",
+		"intervalo": "Del 1 de Febrero al 31 de Marzo 2024",
 		"tipos":
 		[
 			{
@@ -11,7 +11,7 @@
 				[
 					{
 						"capilla": "Teresa de Calcuta",
-						"hora": "19:00",
+						"hora": "18:00",
 						"cupo": "12",
 						"sacerdote": "Gustavo"
 					},
@@ -68,27 +68,27 @@
 			},
 			{
 				"descripcion": "Diaria",
-				"dias": "Lunes a Sábado",
+				"dias": "Lunes a Viernes",
 				"misas":
 				[
 					{
 						"capilla": "Carmelitas",
-						"hora": "11:00",
+						"hora": "19:00",
 						"cupo": "20",
-						"sacerdote": "Eduardo"
+						"sacerdote": "Gustavo/Eduardo"
 					}
 				]
 			},
 			{
 				"descripcion": "Diaria",
-				"dias": "Lunes a Viernes",
+				"dias": "Sábados",
 				"misas":
 				[
 					{
-						"capilla": "San Eduardo",
-						"hora": "19:00",
+						"capilla": "Carmelitas",
+						"hora": "11:00",
 						"cupo": "25",
-						"sacerdote": "Gustavo"
+						"sacerdote": "Gustavo/Eduardo"
 					}
 				]
 			}

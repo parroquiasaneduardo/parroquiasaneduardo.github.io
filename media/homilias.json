@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo VI",
+			"fecha" : "11/02/2024",
+			"audio" : "media/homilias/Domingo VI Tiempo Ordinario 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo V",
 			"fecha" : "04/02/2024",
 			"audio" : "media/homilias/Domingo V Tiempo Ordinario 2024.mp3"
@@ -312,12 +318,6 @@
 			"descripcion": "Domingo I",
 			"fecha" : "26/02/2023",
 			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo VI",
-			"fecha" : "12/02/2023",
-			"audio" : "media/homilias/Domingo VI Tiempo Ordinario 2023.mp3"
 		}
 	],
 	"historicas":

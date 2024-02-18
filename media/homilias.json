@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo I",
+			"fecha" : "18/02/2024",
+			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2024.mp3"
+		},
+		{
 			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo VI",
 			"fecha" : "11/02/2024",

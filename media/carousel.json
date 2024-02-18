@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "11/02/2024",
+	"ultima_actualizacion": "18/02/2024",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía 1er Domingo V de Cuaresma"
+		},
 		{
 			"texto": "Homilía Domingo VI de Tiempo Ordinario"
 		},

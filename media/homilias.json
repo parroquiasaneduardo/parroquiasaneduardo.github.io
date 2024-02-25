@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo II",
+			"fecha" : "25/02/2024",
+			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo I",
 			"fecha" : "18/02/2024",
 			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2024.mp3"
@@ -312,18 +318,6 @@
 			"descripcion": "Domingo V",
 			"fecha" : "26/03/2023",
 			"audio" : "media/homilias/5to Domingo Tiempo Cuaresma 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo II",
-			"fecha" : "05/03/2023",
-			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo I",
-			"fecha" : "26/02/2023",
-			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2023.mp3"
 		}
 	],
 	"historicas":

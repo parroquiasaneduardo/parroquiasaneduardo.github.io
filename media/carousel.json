@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "18/02/2024",
+	"ultima_actualizacion": "25/02/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía 2do Domingo V de Cuaresma"
+		},
+		{
 			"texto": "Homilía 1er Domingo V de Cuaresma"
 		},
 		{
-			"texto": "Homilía Domingo VI de Tiempo Ordinario"
-		},
-		{
 			"texto": "Balance Parroquia Enero 2024"
-		},
-		{
-			"texto": "Homilía Domingo V de Tiempo Ordinario"
 		}
 	]
 }

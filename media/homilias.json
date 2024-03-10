@@ -3,6 +3,18 @@
 	[	
 		{
 			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo IV",
+			"fecha" : "10/03/2024",
+			"audio" : "media/homilias/4to Domingo Tiempo Cuaresma 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo III",
+			"fecha" : "03/03/2024",
+			"audio" : "media/homilias/3er Domingo Tiempo Cuaresma 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo II",
 			"fecha" : "25/02/2024",
 			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2024.mp3"

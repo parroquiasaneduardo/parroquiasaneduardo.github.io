@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "10/03/2024",
+	"ultima_actualizacion": "17/03/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios Semana Santa 2024"
+		},
+		{
 			"texto": "Homilía 4to Domingo de Cuaresma"
 		},
 		{
 			"texto": "Homilía 3er Domingo de Cuaresma"
-		},
-		{
-			"texto": "Homilía 2do Domingo de Cuaresma"
-		},
-		{
-			"texto": "Homilía 1er Domingo de Cuaresma"
 		}
 	]
 }

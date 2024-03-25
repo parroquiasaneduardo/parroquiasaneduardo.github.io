@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Semana Santa",
+			"descripcion": "Domingo de Ramos",
+			"fecha" : "24/03/2024",
+			"audio" : "media/homilias/Domingo de Ramos 2024.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo IV",
 			"fecha" : "10/03/2024",

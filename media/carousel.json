@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "23/03/2024",
+	"ultima_actualizacion": "24/03/2024",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo de Ramos"
+		},
+		{
 			"texto": "Balance Parroquia Febrero 2024"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía 4to Domingo de Cuaresma"
-		},
-		{
-			"texto": "Homilía 3er Domingo de Cuaresma"
 		}
 	]
 }

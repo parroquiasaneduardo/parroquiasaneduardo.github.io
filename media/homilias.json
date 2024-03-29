@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Semana Santa",
+			"descripcion": "Jueves Santo",
+			"fecha" : "28/03/2024",
+			"audio" : "media/homilias/Jueves Santo 2024.mp3"
+		},
+		{
+			"tiempo": "Semana Santa",
 			"descripcion": "Domingo de Ramos",
 			"fecha" : "24/03/2024",
 			"audio" : "media/homilias/Domingo de Ramos 2024.mp3"
@@ -324,18 +330,6 @@
 			"descripcion": "Jueves Santo",
 			"fecha" : "06/04/2023",
 			"audio" : "media/homilias/Jueves Santo 2023.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Domingo de Ramos",
-			"fecha" : "02/04/2023",
-			"audio" : "media/homilias/Domingo de Ramos 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo V",
-			"fecha" : "26/03/2023",
-			"audio" : "media/homilias/5to Domingo Tiempo Cuaresma 2023.mp3"
 		}
 	],
 	"historicas":

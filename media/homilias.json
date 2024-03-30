@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Semana Santa",
+			"descripcion": "Viernes Santo",
+			"fecha" : "29/03/2024",
+			"audio" : "media/homilias/Viernes Santo 2024.mp3"
+		},
+		{
+			"tiempo": "Semana Santa",
 			"descripcion": "Jueves Santo",
 			"fecha" : "28/03/2024",
 			"audio" : "media/homilias/Jueves Santo 2024.mp3"
@@ -312,24 +318,6 @@
 			"descripcion": "2do Domingo de Pascua",
 			"fecha" : "16/04/2023",
 			"audio" : "media/homilias/II Domingo de Pascua 2023.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Vigilia Pascual",
-			"fecha" : "08/04/2023",
-			"audio" : "media/homilias/Vigilia Pascual 2023.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Viernes Santo",
-			"fecha" : "07/04/2023",
-			"audio" : "media/homilias/Viernes Santo 2023.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Jueves Santo",
-			"fecha" : "06/04/2023",
-			"audio" : "media/homilias/Jueves Santo 2023.mp3"
 		}
 	],
 	"historicas":

@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Pascua",
+			"descripcion": "1er Domingo de Pascua",
+			"fecha" : "31/03/2024",
+			"audio" : "media/homilias/I Domingo de Pascua 2024.mp3"
+		},
+		{
 			"tiempo": "Semana Santa",
 			"descripcion": "Vigilia Pascual",
 			"fecha" : "30/03/2024",

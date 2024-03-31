@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Semana Santa",
+			"descripcion": "Vigilia Pascual",
+			"fecha" : "30/03/2024",
+			"audio" : "media/homilias/Vigilia Pascual 2024.mp3"
+		},
+		{
+			"tiempo": "Semana Santa",
 			"descripcion": "Viernes Santo",
 			"fecha" : "29/03/2024",
 			"audio" : "media/homilias/Viernes Santo 2024.mp3"

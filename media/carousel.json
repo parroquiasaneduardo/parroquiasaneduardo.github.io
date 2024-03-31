@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "30/03/2024",
+	"ultima_actualizacion": "31/03/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Vigilia Pascual"
+		},
+		{
 			"texto": "Homilía Viernes Santo"
 		},
 		{
 			"texto": "Homilía Jueves Santo"
-		},
-		{
-			"texto": "Homilía Domingo de Ramos"
-		},
-		{
-			"texto": "Balance Parroquia Febrero 2024"
 		},
 		{
 			"texto": "Horarios Semana Santa 2024"

@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "4to Domingo - Buen Pastor",
+			"fecha" : "21/04/2024",
+			"audio" : "media/homilias/IV Domingo de Pascua 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "1er Domingo",
 			"fecha" : "31/03/2024",
 			"audio" : "media/homilias/I Domingo de Pascua 2024.mp3"
@@ -312,24 +318,6 @@
 			"descripcion": "5to Domingo de Pascua",
 			"fecha" : "07/05/2023",
 			"audio" : "media/homilias/V Domingo de Pascua 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "4to Domingo de Pascua",
-			"fecha" : "30/04/2023",
-			"audio" : "media/homilias/IV Domingo de Pascua 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "3er Domingo de Pascua",
-			"fecha" : "23/04/2023",
-			"audio" : "media/homilias/III Domingo de Pascua 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "2do Domingo de Pascua",
-			"fecha" : "16/04/2023",
-			"audio" : "media/homilias/II Domingo de Pascua 2023.mp3"
 		}
 	],
 	"historicas":

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "28/04/2024",
+	"ultima_actualizacion": "02/05/2024",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Abril 2024"
+		},
+		{
 			"texto": "Homilía 5to Domingo de Pascua"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Horarios Abril a Octubre 2024"
-		},
-		{
-			"texto": "Balance Parroquia Marzo 2024"
 		},
 		{
 			"texto": "Homilías Triduo Pascual"

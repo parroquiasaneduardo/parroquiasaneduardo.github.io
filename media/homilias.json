@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "Ascensión del Señor",
+			"fecha" : "12/05/2024",
+			"audio" : "media/homilias/Ascension 2024.mp3"
+		}
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "6to Domingo",
 			"fecha" : "05/05/2024",
 			"audio" : "media/homilias/VI Domingo de Pascua 2024.mp3"
@@ -312,12 +318,6 @@
 			"descripcion": "Fiesta de Pentecostés",
 			"fecha" : "28/05/2023",
 			"audio" : "media/homilias/Pentecostes 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "Ascensión del Señor",
-			"fecha" : "21/05/2023",
-			"audio" : "media/homilias/Ascension 2023.mp3"
 		}
 	],
 	"historicas":

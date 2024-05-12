@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "05/05/2024",
+	"ultima_actualizacion": "12/05/2024",
 	"imagenes":
 	[
 		{
@@ -21,22 +21,19 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Ascensión - 6to Domingo"
+		},
+		{
 			"texto": "Homilía 6to Domingo de Pascua"
 		},
 		{
 			"texto": "Balance Parroquia Abril 2024"
 		},
 		{
-			"texto": "Homilía 5to Domingo de Pascua"
-		},
-		{
 			"texto": "Restauración San Eduardo"
 		},
 		{
 			"texto": "Horarios Abril a Octubre 2024"
-		},
-		{
-			"texto": "Homilías Triduo Pascual"
 		}
 	]
 }

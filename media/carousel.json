@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "12/05/2024",
+	"ultima_actualizacion": "19/05/2024",
 	"imagenes":
 	[
 		{
@@ -21,19 +21,16 @@
 	"novedades":
 	[
 		{
-			"texto": "Homilía Ascensión - 6to Domingo"
+			"texto": "Homilía Pentecostés"
 		},
 		{
-			"texto": "Homilía 6to Domingo de Pascua"
+			"texto": "Homilía Ascensión - 6to Domingo"
 		},
 		{
 			"texto": "Balance Parroquia Abril 2024"
 		},
 		{
-			"texto": "Restauración San Eduardo"
-		},
-		{
-			"texto": "Horarios Abril a Octubre 2024"
+			"texto": "Restauración San Eduardo en Capillas"
 		}
 	]
 }

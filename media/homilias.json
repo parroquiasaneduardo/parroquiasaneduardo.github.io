@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo X",
+			"fecha" : "09/06/2024",
+			"audio" : "media/homilias/Domingo X Tiempo Ordinario 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Corpus Christi",
 			"fecha" : "02/06/2024",
 			"audio" : "media/homilias/Corpus Christi 2024.mp3"

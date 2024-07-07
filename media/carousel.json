@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "06/07/2024",
+	"ultima_actualizacion": "07/07/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,16 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XIV Tiempo Ordinario"
+		},
+		{
 			"texto": "Balance Parroquia Junio 2024"
 		},
 		{
 			"texto": "Homilía Domingo XIII Tiempo Ordinario"
 		},
 		{
-			"texto": "Homilía Domingo XII Tiempo Ordinario"
-		},
-		{
-			"texto": "Restauración San Eduardo en Capillas"
+			"texto": "Restauración San Eduardo (ver en Capillas)"
 		}
 	]
 }

@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XV",
+			"fecha" : "14/07/2024",
+			"audio" : "media/homilias/Domingo XV Tiempo Ordinario 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XIV",
 			"fecha" : "07/07/2024",
 			"audio" : "media/homilias/Domingo XIV Tiempo Ordinario 2024.mp3"

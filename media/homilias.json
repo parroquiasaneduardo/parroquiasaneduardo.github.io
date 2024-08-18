@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XX",
+			"fecha" : "18/08/2024",
+			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XIX",
 			"fecha" : "11/08/2024",
 			"audio" : "media/homilias/Domingo XIX Tiempo Ordinario 2024.mp3"
@@ -324,12 +330,6 @@
 			"descripcion": "Domingo XXI",
 			"fecha" : "27/08/2023",
 			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XX",
-			"fecha" : "20/08/2023",
-			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2023.mp3"
 		}
 	],
 	"historicas":

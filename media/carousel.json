@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "01/09/2024",
+	"ultima_actualizacion": "05/09/2024",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Balance Parroquia Agosto 2024"
+		},
 		{
 			"texto": "Homilía Domingo XXII Tiempo Ordinario"
 		},

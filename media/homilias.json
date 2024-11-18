@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXXIII",
+			"fecha" : "17/11/2024",
+			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXXII",
 			"fecha" : "10/11/2024",
 			"audio" : "media/homilias/Domingo XXXII Tiempo Ordinario 2024.mp3"
@@ -330,12 +336,6 @@
 			"descripcion": "Cristo Rey",
 			"fecha" : "26/11/2023",
 			"audio" : "media/homilias/Cristo Rey 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXXIII",
-			"fecha" : "19/11/2023",
-			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2023.mp3"
 		}
 	],
 	"historicas":

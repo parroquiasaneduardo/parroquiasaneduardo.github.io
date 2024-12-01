@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Primer Domingo",
+			"fecha" : "01/12/2024",
+			"audio" : "media/homilias/1er Domingo Adviento 2024.mp3"
+		},
+		{
 			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Cristo Rey",
 			"fecha" : "24/11/2024",
@@ -330,12 +336,6 @@
 			"descripcion": "Inmaculada Concepción",
 			"fecha" : "08/12/2023",
 			"audio" : "media/homilias/Inmaculada Concepcion 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Primer Domingo",
-			"fecha" : "03/12/2023",
-			"audio" : "media/homilias/1er Domingo Adviento 2023.mp3"
 		}
 	],
 	"historicas":

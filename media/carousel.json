@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "01/12/2024",
+	"ultima_actualizacion": "08/12/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Noviembre 2024"
+		},
+		{
+			"texto": "Homilía 2do Domingo Tiempo Adviento"
+		},
+		{
 			"texto": "Homilía 1er Domingo Tiempo Adviento"
-		},
-		{
-			"texto": "Homilía Cristo Rey"
-		},
-		{
-			"texto": "Horarios Misas hasta Diciembre 2024"
-		},
-		{
-			"texto": "Balance Parroquia Octubre 2024"
 		}
 	]
 }

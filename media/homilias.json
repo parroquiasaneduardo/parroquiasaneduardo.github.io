@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Inmaculada Concepción",
+			"fecha" : "08/12/2024",
+			"audio" : "media/homilias/2do Domingo Adviento 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Adviento",
 			"descripcion": "Primer Domingo",
 			"fecha" : "01/12/2024",
 			"audio" : "media/homilias/1er Domingo Adviento 2024.mp3"
@@ -324,18 +330,6 @@
 			"descripcion": "Tercer Domingo",
 			"fecha" : "17/12/2023",
 			"audio" : "media/homilias/3er Domingo Adviento 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Segundo Domingo",
-			"fecha" : "10/12/2023",
-			"audio" : "media/homilias/2do Domingo Adviento 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Inmaculada Concepción",
-			"fecha" : "08/12/2023",
-			"audio" : "media/homilias/Inmaculada Concepcion 2023.mp3"
 		}
 	],
 	"historicas":

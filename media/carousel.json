@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "08/12/2024",
+	"ultima_actualizacion": "09/12/2024",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Horarios Diciembre 2024"
+		},
 		{
 			"texto": "Balance Parroquia Noviembre 2024"
 		},

@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Noviembre y Diciembre 2024",
+		"intervalo": "Diciembre 2024",
 		"tipos":
 		[
 			{
@@ -73,7 +73,7 @@
 				[
 					{
 						"capilla": "Carmelitas",
-						"hora": "18:00",
+						"hora": "19:00",
 						"cupo": "20",
 						"sacerdote": "Gustavo/Eduardo"
 					}

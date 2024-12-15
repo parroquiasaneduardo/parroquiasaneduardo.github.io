@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Tercer Domingo",
+			"fecha" : "15/12/2024",
+			"audio" : "media/homilias/3er Domingo Adviento 2024.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Adviento",
 			"descripcion": "Inmaculada Concepción",
 			"fecha" : "08/12/2024",
 			"audio" : "media/homilias/2do Domingo Adviento 2024.mp3"

@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Nochebuena",
+			"fecha" : "24/12/2024",
+			"audio" : "media/homilias/Nochebuena 2024.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Adviento",
 			"descripcion": "Cuarto Domingo",
 			"fecha" : "22/12/2024",
@@ -324,12 +330,6 @@
 			"descripcion": "Sagrada Familia",
 			"fecha" : "31/12/2023",
 			"audio" : "media/homilias/Sagrada Familia 2023.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Nochebuena",
-			"fecha" : "25/12/2023",
-			"audio" : "media/homilias/Nochebuena 2023.mp3"
 		}
 	],
 	"historicas":

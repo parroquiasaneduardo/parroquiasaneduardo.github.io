@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "22/12/2024",
+	"ultima_actualizacion": "24/12/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Nochebuena"
+		},
+		{
 			"texto": "Homilía 4to Domingo Tiempo Adviento"
 		},
 		{
-			"texto": "Homilía 3er Domingo Tiempo Adviento"
-		},
-		{
 			"texto": "Horarios Navidad y Año Nuevo 2024"
-		},
-		{
-			"texto": "Balance Parroquia Noviembre 2024"
 		}
 	]
 }

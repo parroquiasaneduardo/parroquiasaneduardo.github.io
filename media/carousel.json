@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "24/12/2024",
+	"ultima_actualizacion": "29/12/2024",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Sagrada Familia"
+		},
 		{
 			"texto": "Homilía Nochebuena"
 		},

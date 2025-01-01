@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "29/12/2024",
+	"ultima_actualizacion": "31/12/2024",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Sta María Madre de Dios"
+		},
+		{
 			"texto": "Homilía Sagrada Familia"
 		},
 		{
 			"texto": "Homilía Nochebuena"
-		},
-		{
-			"texto": "Homilía 4to Domingo Tiempo Adviento"
-		},
-		{
-			"texto": "Horarios Navidad y Año Nuevo 2024"
 		}
 	]
 }

@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Santa María Madre de Dios",
+			"fecha" : "31/12/2024",
+			"audio" : "media/homilias/StaMariaMadreDios2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Sagrada Familia",
 			"fecha" : "29/12/2024",
 			"audio" : "media/homilias/Sagrada Familia 2024.mp3"
@@ -324,12 +330,6 @@
 			"descripcion": "Epifanía",
 			"fecha" : "06/01/2024",
 			"audio" : "media/homilias/Epifania 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Santa María Madre de Dios",
-			"fecha" : "01/01/2024",
-			"audio" : "media/homilias/StaMariaMadreDios2024.mp3"
 		}
 	],
 	"historicas":

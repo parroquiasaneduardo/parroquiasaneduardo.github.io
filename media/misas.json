@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Diciembre 2024",
+		"intervalo": "Enero 2025",
 		"tipos":
 		[
 			{
@@ -10,16 +10,16 @@
 				"misas":
 				[
 					{
-						"capilla": "Teresa de Calcuta",
-						"hora": "18:00",
-						"cupo": "12",
-						"sacerdote": "Gustavo"
-					},
-					{
 						"capilla": "NS del Cerro",
 						"hora": "19:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
+					},
+					{
+						"capilla": "San Eduardo",
+						"hora": "20:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
 					}
 				]
 			},
@@ -47,7 +47,7 @@
 						"sacerdote": "Eduardo"
 					},
 					{
-						"capilla": "San Cayetano",
+						"capilla": "San Eduardo",
 						"hora": "12:30",
 						"cupo": "20",
 						"sacerdote": "Gustavo"
@@ -68,27 +68,27 @@
 			},
 			{
 				"descripcion": "Diaria",
-				"dias": "Lunes a Viernes",
-				"misas":
-				[
-					{
-						"capilla": "Carmelitas",
-						"hora": "19:00",
-						"cupo": "20",
-						"sacerdote": "Gustavo/Eduardo"
-					}
-				]
-			},
-			{
-				"descripcion": "Diaria",
-				"dias": "Sábados",
+				"dias": "Lunes a Sabados",
 				"misas":
 				[
 					{
 						"capilla": "Carmelitas",
 						"hora": "11:00",
-						"cupo": "25",
-						"sacerdote": "Gustavo/Eduardo"
+						"cupo": "20",
+						"sacerdote": "Eduardo"
+					}
+				]
+			},
+			{
+				"descripcion": "Diaria",
+				"dias": "Lunes a Viernes",
+				"misas":
+				[
+					{
+						"capilla": "San Eduardo",
+						"hora": "20:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
 					}
 				]
 			}

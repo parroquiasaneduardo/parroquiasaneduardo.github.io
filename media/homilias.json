@@ -4,6 +4,12 @@
 		{
 			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Santa María Madre de Dios",
+			"fecha" : "01/01/2025",
+			"audio" : "media/homilias/StaMariaMadreDiosPaz2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Sta María Madre de Dios (víspera)",
 			"fecha" : "31/12/2024",
 			"audio" : "media/homilias/StaMariaMadreDios2025.mp3"
 		},

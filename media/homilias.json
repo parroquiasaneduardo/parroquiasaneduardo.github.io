@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Domingo II",
+			"fecha" : "05/01/2025",
+			"audio" : "media/homilias/Domingo II Tiempo Navidad 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Santa María Madre de Dios",
 			"fecha" : "01/01/2025",
 			"audio" : "media/homilias/StaMariaMadreDiosPaz2025.mp3"
@@ -330,12 +336,6 @@
 			"descripcion": "Bautismo del Señor",
 			"fecha" : "07/01/2024",
 			"audio" : "media/homilias/Bautismo2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Epifanía",
-			"fecha" : "06/01/2024",
-			"audio" : "media/homilias/Epifania 2024.mp3"
 		}
 	],
 	"historicas":

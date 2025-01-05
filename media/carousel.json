@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "02/01/2025",
+	"ultima_actualizacion": "05/01/2025",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,12 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Diciembre 2025"
+		},
+		{
+			"texto": "Homilía 2do Domingo de Navidad"
+		},
+		{
 			"texto": "Horarios Enero 2025"
 		},
 		{
@@ -28,12 +34,6 @@
 		},
 		{
 			"texto": "Homilía Sta María Madre de Dios (víspera)"
-		},
-		{
-			"texto": "Homilía Sagrada Familia"
-		},
-		{
-			"texto": "Homilía Nochebuena"
 		}
 	]
 }

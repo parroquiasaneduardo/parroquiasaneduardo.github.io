@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Bautismo del Señor",
+			"fecha" : "12/01/2025",
+			"audio" : "media/homilias/Bautismo2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Domingo II",
 			"fecha" : "05/01/2025",
 			"audio" : "media/homilias/Domingo II Tiempo Navidad 2025.mp3"
@@ -330,12 +336,6 @@
 			"descripcion": "Domingo II",
 			"fecha" : "14/01/2024",
 			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Bautismo del Señor",
-			"fecha" : "07/01/2024",
-			"audio" : "media/homilias/Bautismo2024.mp3"
 		}
 	],
 	"historicas":

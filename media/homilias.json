@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo II",
+			"fecha" : "19/01/2025",
+			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2025.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Bautismo del Señor",
 			"fecha" : "12/01/2025",
@@ -330,12 +336,6 @@
 			"descripcion": "Domingo III",
 			"fecha" : "21/01/2024",
 			"audio" : "media/homilias/Domingo III Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo II",
-			"fecha" : "14/01/2024",
-			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2024.mp3"
 		}
 	],
 	"historicas":

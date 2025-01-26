@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "19/01/2025",
+	"ultima_actualizacion": "26/01/2025",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo III Tiempo Ordinario"
+		},
+		{
 			"texto": "Homilía Domingo II Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Bautismo del Señor"
-		},
-		{
-			"texto": "Balance Anual Parroquia 2024"
-		},
-		{
-			"texto": "Balance Parroquia Diciembre 2024"
 		},
 		{
 			"texto": "Horarios Enero 2025"

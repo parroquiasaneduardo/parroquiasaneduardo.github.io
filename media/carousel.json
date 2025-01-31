@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "26/01/2025",
+	"ultima_actualizacion": "31/01/2025",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios Febrero 2025"
+		},
+		{
 			"texto": "Homilía Domingo III Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Domingo II Tiempo Ordinario"
-		},
-		{
-			"texto": "Homilía Bautismo del Señor"
-		},
-		{
-			"texto": "Horarios Enero 2025"
 		}
 	]
 }

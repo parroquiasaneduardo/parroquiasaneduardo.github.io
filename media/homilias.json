@@ -3,9 +3,15 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo V",
+			"fecha" : "09/02/2025",
+			"audio" : "media/homilias/Domingo V Tiempo Ordinario 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo IV",
 			"fecha" : "02/02/2025",
-			"audio" : "media/homilias/Domingo IV Tiempo Ordinario 2024.mp3"
+			"audio" : "media/homilias/Domingo IV Tiempo Ordinario 2025.mp3"
 		},
 		{
 			"tiempo": "Tiempo Ordinario",
@@ -330,12 +336,6 @@
 			"descripcion": "Domingo VI",
 			"fecha" : "11/02/2024",
 			"audio" : "media/homilias/Domingo VI Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo V",
-			"fecha" : "04/02/2024",
-			"audio" : "media/homilias/Domingo V Tiempo Ordinario 2024.mp3"
 		}
 	],
 	"historicas":

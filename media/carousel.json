@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "09/02/2025",
+	"ultima_actualizacion": "16/02/2025",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo VI Tiempo Ordinario"
+		},
+		{
 			"texto": "Homilía Domingo V Tiempo Ordinario"
 		},
 		{
 			"texto": "Balance Parroquia Enero 2025"
-		},
-		{
-			"texto": "Homilía Domingo IV Tiempo Ordinario"
-		},
-		{
-			"texto": "Horarios Febrero 2025"
 		}
 	]
 }

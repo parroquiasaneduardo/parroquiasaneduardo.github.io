@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo VIII",
+			"fecha" : "02/03/2025",
+			"audio" : "media/homilias/Domingo VIII Tiempo Ordinario 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo VII",
 			"fecha" : "23/02/2025",
 			"audio" : "media/homilias/Domingo VII Tiempo Ordinario 2025.mp3"

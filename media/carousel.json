@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "02/03/2025",
+	"ultima_actualizacion": "03/03/2025",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Febrero 2025"
+		},
+		{
 			"texto": "Homilía Domingo VIII Tiempo Ordinario"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía Domingo VI Tiempo Ordinario"
-		},
-		{
-			"texto": "Balance Parroquia Enero 2025"
 		}
 	]
 }

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "03/03/2025",
+	"ultima_actualizacion": "09/03/2025",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía 1er Domingo de Cuaresma"
+		}
+		{
 			"texto": "Balance Parroquia Febrero 2025"
 		},
 		{
@@ -29,8 +32,5 @@
 		{
 			"texto": "Homilía Domingo VII Tiempo Ordinario"
 		},
-		{
-			"texto": "Homilía Domingo VI Tiempo Ordinario"
-		}
 	]
 }

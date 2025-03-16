@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "09/03/2025",
+	"ultima_actualizacion": "16/03/2025",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía 2do Domingo de Cuaresma"
+		},
 		{
 			"texto": "Homilía 1er Domingo de Cuaresma"
 		},

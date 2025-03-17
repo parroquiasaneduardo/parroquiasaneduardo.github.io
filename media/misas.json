@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Febrero 2025",
+		"intervalo": "Abril a Octubre 2025",
 		"tipos":
 		[
 			{
@@ -17,7 +17,7 @@
 					},
 					{
 						"capilla": "NS del Cerro",
-						"hora": "19:00",
+						"hora": "18:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
 					}
@@ -54,13 +54,13 @@
 					},
 					{
 						"capilla": "María Madre de la Luz",
-						"hora": "19:00",
+						"hora": "18:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
 					},
 					{
 						"capilla": "San Eduardo",
-						"hora": "20:00",
+						"hora": "19:00",
 						"cupo": "20",
 						"sacerdote": "Gustavo"
 					}
@@ -73,7 +73,7 @@
 				[
 					{
 						"capilla": "Carmelitas",
-						"hora": "19:00",
+						"hora": "18:00",
 						"cupo": "20",
 						"sacerdote": "Eduardo/Gustavo"
 					}

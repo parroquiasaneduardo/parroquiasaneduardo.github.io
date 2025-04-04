@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "16/03/2025",
+	"ultima_actualizacion": "04/04/2025",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios Semana Santa 2025"
+		},
+		{
 			"texto": "Homilía 2do Domingo de Cuaresma"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Balance Parroquia Febrero 2025"
-		},
-		{
-			"texto": "Homilía Domingo VIII Tiempo Ordinario"
 		}
 	]
 }

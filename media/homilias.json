@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Semana Santa",
+			"descripcion": "Domingo de Ramos",
+			"fecha" : "13/04/2025",
+			"audio" : "media/homilias/Domingo de Ramos 2025.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo V",
 			"fecha" : "06/04/2025",
@@ -336,12 +342,6 @@
 			"descripcion": "Jueves Santo",
 			"fecha" : "28/03/2024",
 			"audio" : "media/homilias/Jueves Santo 2024.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Domingo de Ramos",
-			"fecha" : "24/03/2024",
-			"audio" : "media/homilias/Domingo de Ramos 2024.mp3"
 		}
 	],
 	"historicas":

@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Pascua",
+			"descripcion": "2do Domingo",
+			"fecha" : "27/04/2025",
+			"audio" : "media/homilias/II Domingo de Pascua 2025.mp3"
+		},
+		{
 			"tiempo": "Semana Santa",
 			"descripcion": "Vigilia Pascual",
 			"fecha" : "19/04/2025",
@@ -336,12 +342,6 @@
 			"descripcion": "4to Domingo - Buen Pastor",
 			"fecha" : "21/04/2024",
 			"audio" : "media/homilias/IV Domingo de Pascua 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "1er Domingo",
-			"fecha" : "31/03/2024",
-			"audio" : "media/homilias/I Domingo de Pascua 2024.mp3"
 		}
 	],
 	"historicas":

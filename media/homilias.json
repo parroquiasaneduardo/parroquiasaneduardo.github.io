@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "3er Domingo",
+			"fecha" : "04/05/2025",
+			"audio" : "media/homilias/III Domingo de Pascua 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "2do Domingo",
 			"fecha" : "27/04/2025",
 			"audio" : "media/homilias/II Domingo de Pascua 2025.mp3"

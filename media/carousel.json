@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "04/05/2025",
+	"ultima_actualizacion": "11/05/2025",
 	"imagenes":
 	[
 		{
@@ -21,19 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía El Buen Pastor Tiempo Pascual"
+		},
+		{
 			"texto": "Homilía III Domingo Tiempo Pascual"
 		},
 		{
 			"texto": "Homilía II Domingo Tiempo Pascual"
-		},
-		{
-			"texto": "Homilía Vigilia Pascual"
-		},
-		{
-			"texto": "Homilía Viernes Santo"
-		},
-		{
-			"texto": "Homilía Jueves Santo"
 		}
 	]
 }

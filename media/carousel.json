@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "11/05/2025",
+	"ultima_actualizacion": "12/05/2025",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Balance Parroquia Abril 2025"
+		},
 		{
 			"texto": "Homilía El Buen Pastor Tiempo Pascual"
 		},

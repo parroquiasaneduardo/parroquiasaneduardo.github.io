@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "12/05/2025",
+	"ultima_actualizacion": "18/05/2025",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía V Domingo Tiempo Pascual"
+		},
+		{
 			"texto": "Balance Parroquia Abril 2025"
 		},
 		{
 			"texto": "Homilía El Buen Pastor Tiempo Pascual"
-		},
-		{
-			"texto": "Homilía III Domingo Tiempo Pascual"
-		},
-		{
-			"texto": "Homilía II Domingo Tiempo Pascual"
 		}
 	]
 }

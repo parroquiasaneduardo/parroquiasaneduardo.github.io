@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "5to Domingo",
+			"fecha" : "18/05/2025",
+			"audio" : "media/homilias/V Domingo de Pascua 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "4to Domingo - Buen Pastor",
 			"fecha" : "11/05/2025",
 			"audio" : "media/homilias/IV Domingo de Pascua 2025.mp3"
@@ -342,12 +348,6 @@
 			"descripcion": "6to Domingo",
 			"fecha" : "05/05/2024",
 			"audio" : "media/homilias/VI Domingo de Pascua 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "5to Domingo",
-			"fecha" : "28/04/2024",
-			"audio" : "media/homilias/V Domingo de Pascua 2024.mp3"
 		}
 	],
 	"historicas":

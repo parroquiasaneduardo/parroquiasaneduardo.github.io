@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "6to Domingo",
+			"fecha" : "25/05/2025",
+			"audio" : "media/homilias/VI Domingo de Pascua 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "5to Domingo",
 			"fecha" : "18/05/2025",
 			"audio" : "media/homilias/V Domingo de Pascua 2025.mp3"
@@ -342,12 +348,6 @@
 			"descripcion": "Ascensión del Señor",
 			"fecha" : "12/05/2024",
 			"audio" : "media/homilias/Ascension 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "6to Domingo",
-			"fecha" : "05/05/2024",
-			"audio" : "media/homilias/VI Domingo de Pascua 2024.mp3"
 		}
 	],
 	"historicas":

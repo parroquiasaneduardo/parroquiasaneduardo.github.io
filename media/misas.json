@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Abril a Octubre 2025",
+		"intervalo": "Junio 2025",
 		"tipos":
 		[
 			{
@@ -43,18 +43,6 @@
 					{
 						"capilla": "NS de Lujan",
 						"hora": "12:15",
-						"cupo": "10",
-						"sacerdote": "Eduardo"
-					},
-					{
-						"capilla": "San Cayetano",
-						"hora": "12:30",
-						"cupo": "20",
-						"sacerdote": "Gustavo"
-					},
-					{
-						"capilla": "María Madre de la Luz",
-						"hora": "18:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
 					},

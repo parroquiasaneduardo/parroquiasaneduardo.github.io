@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Pascua",
+			"descripcion": "Fiesta de Pentecostés",
+			"fecha" : "08/06/2025",
+			"audio" : "media/homilias/Pentecostes 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Pascua",
 			"descripcion": "6to Domingo",
 			"fecha" : "25/05/2025",
 			"audio" : "media/homilias/VI Domingo de Pascua 2025.mp3"
@@ -336,18 +342,6 @@
 			"descripcion": "Santísima Trinidad",
 			"fecha" : "26/05/2024",
 			"audio" : "media/homilias/Santisima Trinidad 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "Fiesta de Pentecostés",
-			"fecha" : "19/05/2024",
-			"audio" : "media/homilias/Pentecostes 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "Ascensión del Señor",
-			"fecha" : "12/05/2024",
-			"audio" : "media/homilias/Ascension 2024.mp3"
 		}
 	],
 	"historicas":

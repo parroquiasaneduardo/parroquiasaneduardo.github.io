@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "08/06/2025",
+	"ultima_actualizacion": "15/06/2025",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Santísima Trinidad"
+		},
 		{
 			"texto": "Homilía Pentecostés Tiempo Pascual"
 		},

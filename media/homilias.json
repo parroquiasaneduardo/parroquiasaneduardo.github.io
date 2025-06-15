@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Santísima Trinidad",
+			"fecha" : "15/06/2025",
+			"audio" : "media/homilias/Santisima Trinidad 2025.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Pascua",
 			"descripcion": "Fiesta de Pentecostés",
 			"fecha" : "08/06/2025",
@@ -336,12 +342,6 @@
 			"descripcion": "Corpus Christi",
 			"fecha" : "02/06/2024",
 			"audio" : "media/homilias/Corpus Christi 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Santísima Trinidad",
-			"fecha" : "26/05/2024",
-			"audio" : "media/homilias/Santisima Trinidad 2024.mp3"
 		}
 	],
 	"historicas":

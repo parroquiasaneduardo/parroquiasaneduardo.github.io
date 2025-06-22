@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Corpus Christi",
+			"fecha" : "22/06/2025",
+			"audio" : "media/homilias/Corpus Christi 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Santísima Trinidad",
 			"fecha" : "15/06/2025",
 			"audio" : "media/homilias/Santisima Trinidad 2025.mp3"
@@ -336,12 +342,6 @@
 			"descripcion": "Domingo X",
 			"fecha" : "09/06/2024",
 			"audio" : "media/homilias/Domingo X Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Corpus Christi",
-			"fecha" : "02/06/2024",
-			"audio" : "media/homilias/Corpus Christi 2024.mp3"
 		}
 	],
 	"historicas":

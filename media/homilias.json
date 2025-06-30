@@ -336,18 +336,6 @@
 			"descripcion": "Domingo XII",
 			"fecha" : "23/06/2024",
 			"audio" : "media/homilias/Domingo XII Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XI",
-			"fecha" : "16/06/2024",
-			"audio" : "media/homilias/Domingo XI Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo X",
-			"fecha" : "09/06/2024",
-			"audio" : "media/homilias/Domingo X Tiempo Ordinario 2024.mp3"
 		}
 	],
 	"historicas":

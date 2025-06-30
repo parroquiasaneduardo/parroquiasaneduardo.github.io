@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "San Pedro y San Pablo",
+			"fecha" : "29/06/2025",
+			"audio" : "media/homilias/San Pedro y San Pablo 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Corpus Christi",
 			"fecha" : "22/06/2025",
 			"audio" : "media/homilias/Corpus Christi 2025.mp3"

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "22/06/2025",
+	"ultima_actualizacion": "30/06/2025",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía San Pedro y San Pablo"
+		},
+		{
 			"texto": "Homilía Corpus Christi"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía Pentecostés Tiempo Pascual"
-		},
-		{
-			"texto": "Balance Parroquia Mayo 2025"
 		}
 	]
 }

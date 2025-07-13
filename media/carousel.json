@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "06/07/2025",
+	"ultima_actualizacion": "13/07/2025",
 	"imagenes":
 	[
 		{
@@ -21,16 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XV Tiempo Ordinario"
+		},
+		{
 			"texto": "Balance Parroquia Junio 2025"
 		},
 		{
 			"texto": "Homilía Domingo XIV Tiempo Ordinario"
-		},
-		{
-			"texto": "Homilía San Pedro y San Pablo"
-		},
-		{
-			"texto": "Homilía Corpus Christi"
 		}
 	]
 }

@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Junio 2025",
+		"intervalo": "Abril a Octubre 2025",
 		"tipos":
 		[
 			{
@@ -45,6 +45,12 @@
 						"hora": "12:15",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
+					},
+					{
+						"capilla": "San Cayetano",
+						"hora": "12:15",
+						"cupo": "10",
+						"sacerdote": "Gustavo"
 					},
 					{
 						"capilla": "San Eduardo",

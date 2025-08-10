@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XIX",
+			"fecha" : "10/08/2025",
+			"audio" : "media/homilias/Domingo XIX Tiempo Ordinario 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XVIII",
 			"fecha" : "03/08/2025",
 			"audio" : "media/homilias/Domingo XVIII Tiempo Ordinario 2025.mp3"

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "10/08/2025",
+	"ultima_actualizacion": "16/08/2025",
 	"imagenes":
 	[
 		{
@@ -12,7 +12,7 @@
 			"archivo" : "images/carousel/Teresita.jpg"
 		},
 		{
-			"archivo" : "images/carousel/El Buen Pastor.jpg"
+			"archivo" : "images/carousel/Jesus Palabra.jpg"
 		},
 		{
 			"archivo" : "images/carousel/Jesus en el Monte.jpg"
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Curso Emaús - Encuentro con la Palabra"
+		},
+		{
 			"texto": "Homilía Domingo XIX Tiempo Ordinario"
 		},
 		{
 			"texto": "Balance Parroquia Julio 2025"
-		},
-		{
-			"texto": "Homilía Domingo XVIII Tiempo Ordinario"
 		}
 	]
 }

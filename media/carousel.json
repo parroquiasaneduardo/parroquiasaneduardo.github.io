@@ -3,19 +3,7 @@
 	"imagenes":
 	[
 		{
-			"archivo" : "images/carousel/Pironio_Beato.jpg"
-		},
-		{
-			"archivo" : "images/carousel/SanEduardo.jpg"
-		},
-		{
-			"archivo" : "images/carousel/Teresita.jpg"
-		},
-		{
 			"archivo" : "images/carousel/Jesus Palabra.jpg"
-		},
-		{
-			"archivo" : "images/carousel/Jesus en el Monte.jpg"
 		}
 	],
 	"novedades":

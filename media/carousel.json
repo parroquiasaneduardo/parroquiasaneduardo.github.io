@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "31/08/2025",
+	"ultima_actualizacion": "06/09/2025",
 	"imagenes":
 	[
 		{
@@ -12,13 +12,13 @@
 			"texto": "Horarios Misa NS de la Luz"
 		},
 		{
+			"texto": "Balance Parroquia Agosto 2025"
+		},
+		{
 			"texto": "Homilía Domingo XXII Tiempo Ordinario"
 		},
 		{
 			"texto": "Curso Emaús - Encuentro con la Palabra"
-		},
-		{
-			"texto": "Balance Parroquia Julio 2025"
 		}
 	]
 }

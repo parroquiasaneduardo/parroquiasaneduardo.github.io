@@ -53,6 +53,12 @@
 						"sacerdote": "Gustavo"
 					},
 					{
+						"capilla": "NS de la Luz",
+						"hora": "18:00",
+						"cupo": "10",
+						"sacerdote": "Eduardo"
+					},
+					{
 						"capilla": "San Eduardo",
 						"hora": "19:00",
 						"cupo": "20",

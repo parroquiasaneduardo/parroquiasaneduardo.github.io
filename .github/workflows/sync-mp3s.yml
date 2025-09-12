@@ -17,15 +17,15 @@ jobs:
           YEAR=$(date +'%Y')  # Full year, e.g., 2025
           echo "folder=$YEAR" >> $GITHUB_OUTPUT
 
+      - name: Ensure target folder exists
+        run: mkdir -p ${{ steps.year.outputs.folder }}
+        
       - name: Detect changed MP3s
         id: changes
         run: |
           echo "files<<EOF" >> $GITHUB_OUTPUT
           git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^media/homilias/.*\.mp3$' || true >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
-
-      - name: Ensure target folder exists
-        run: mkdir -p ${{ steps.year.outputs.folder }}
 
       - name: Copy changed MP3s with renaming
         if: steps.changes.outputs.files != ''

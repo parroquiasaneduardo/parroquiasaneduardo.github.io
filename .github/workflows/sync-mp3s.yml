@@ -3,7 +3,7 @@ name: Sync MP3s
 on:
   push:
     paths:
-      - 'my/long/path/*.mp3'
+      - 'media/homilias/*.mp3'
 
 jobs:
   sync:
@@ -21,7 +21,7 @@ jobs:
         id: changes
         run: |
           echo "files<<EOF" >> $GITHUB_OUTPUT
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^my/long/path/.*\.mp3$' || true >> $GITHUB_OUTPUT
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^media/homilias/.*\.mp3$' || true >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Ensure target folder exists
@@ -41,7 +41,7 @@ jobs:
 
       - name: Remove deleted MP3s
         run: |
-          for file in $(git diff --name-status ${{ github.event.before }} ${{ github.sha }} | awk '$1=="D" {print $2}' | grep '^my/long/path/.*\.mp3$'); do
+          for file in $(git diff --name-status ${{ github.event.before }} ${{ github.sha }} | awk '$1=="D" {print $2}' | grep '^media/homilias/.*\.mp3$'); do
             base=$(basename "$file" .mp3)
             base=$(echo "$base" | sed -E 's/[ _-]*20[0-9]{2}$//')
             base=$(echo "$base" | sed 's/ /-/g')

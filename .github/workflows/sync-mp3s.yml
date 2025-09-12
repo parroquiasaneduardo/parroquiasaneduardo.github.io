@@ -25,17 +25,19 @@ jobs:
       - name: Detect changed MP3s
         id: changes
         run: |
-          echo "files<<EOF" >> $GITHUB_OUTPUT
-          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^media/homilias/.*\.mp3$' || true >> $GITHUB_OUTPUT
-          echo "EOF" >> $GITHUB_OUTPUT
+          FILES=$(git diff --name-only ${{ github.event.before }} ${{ github.sha }} 2>/dev/null || true)
+          FILES=$(echo "$FILES" | grep '^media/homilias/.*\.mp3$' || true)
+          # Normalize spaces instead of newlines
+          FILES=$(echo $FILES)
+          echo "files=$FILES" >> $GITHUB_OUTPUT
 
       - name: Copy changed MP3s with renaming
-        if: steps.changes.outputs.files != ''
+        if: ${{ steps.changes.outputs.files != '' }}
         run: |
           for file in ${{ steps.changes.outputs.files }}; do
             base=$(basename "$file" .mp3)
-            base=$(echo "$base" | sed -E 's/[ _-]*20[0-9]{2}$//')  # Remove trailing year
-            base=$(echo "$base" | sed 's/ /-/g')                   # Slugify spaces → dashes
+            base=$(echo "$base" | sed -E 's/[ _-]*20[0-9]{2}$//')  # remove trailing year
+            base=$(echo "$base" | sed 's/ /-/g')                   # slugify
             newfile="${base}.mp3"
             echo "Copying $file to ${{ steps.year.outputs.folder }}/$newfile"
             cp "$file" "${{ steps.year.outputs.folder }}/$newfile"

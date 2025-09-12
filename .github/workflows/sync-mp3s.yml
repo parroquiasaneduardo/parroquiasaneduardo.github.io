@@ -30,16 +30,16 @@ jobs:
           # Normalize spaces instead of newlines
           FILES=$(echo $FILES)
           echo "files=$FILES" >> $GITHUB_OUTPUT
-
+          
       - name: Copy changed MP3s with renaming
         if: ${{ steps.changes.outputs.files != '' }}
         run: |
-          for file in ${{ steps.changes.outputs.files }}; do
+          echo "${{ steps.changes.outputs.files }}" | while IFS= read -r file; do
             base=$(basename "$file" .mp3)
             base=$(echo "$base" | sed -E 's/[ _-]*20[0-9]{2}$//')  # remove trailing year
-            base=$(echo "$base" | sed 's/ /-/g')                   # slugify
+            base=$(echo "$base" | sed 's/ /-/g')                   # slugify spaces to dash
             newfile="${base}.mp3"
-            echo "Copying $file to ${{ steps.year.outputs.folder }}/$newfile"
+            echo "Copying '$file' to '${{ steps.year.outputs.folder }}/$newfile'"
             cp "$file" "${{ steps.year.outputs.folder }}/$newfile"
           done
 

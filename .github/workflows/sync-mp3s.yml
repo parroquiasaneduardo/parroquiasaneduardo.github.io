@@ -1,0 +1,59 @@
+# .github/workflows/sync-mp3s.yml
+name: Sync MP3s
+on:
+  push:
+    paths:
+      - 'my/long/path/*.mp3'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set year folder
+        id: year
+        run: |
+          YEAR=$(date +'%Y')  # Full year, e.g., 2025
+          echo "folder=$YEAR" >> $GITHUB_OUTPUT
+
+      - name: Detect changed MP3s
+        id: changes
+        run: |
+          echo "files<<EOF" >> $GITHUB_OUTPUT
+          git diff --name-only ${{ github.event.before }} ${{ github.sha }} | grep '^my/long/path/.*\.mp3$' || true >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Ensure target folder exists
+        run: mkdir -p ${{ steps.year.outputs.folder }}
+
+      - name: Copy changed MP3s with renaming
+        if: steps.changes.outputs.files != ''
+        run: |
+          for file in ${{ steps.changes.outputs.files }}; do
+            base=$(basename "$file" .mp3)
+            base=$(echo "$base" | sed -E 's/[ _-]*20[0-9]{2}$//')  # Remove trailing year
+            base=$(echo "$base" | sed 's/ /-/g')                   # Slugify spaces → dashes
+            newfile="${base}.mp3"
+            echo "Copying $file to ${{ steps.year.outputs.folder }}/$newfile"
+            cp "$file" "${{ steps.year.outputs.folder }}/$newfile"
+          done
+
+      - name: Remove deleted MP3s
+        run: |
+          for file in $(git diff --name-status ${{ github.event.before }} ${{ github.sha }} | awk '$1=="D" {print $2}' | grep '^my/long/path/.*\.mp3$'); do
+            base=$(basename "$file" .mp3)
+            base=$(echo "$base" | sed -E 's/[ _-]*20[0-9]{2}$//')
+            base=$(echo "$base" | sed 's/ /-/g')
+            target="${{ steps.year.outputs.folder }}/$base.mp3"
+            echo "Removing $target"
+            rm -f "$target"
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ${{ steps.year.outputs.folder }}
+          git diff --cached --quiet || git commit -m "Sync MP3s to ${{ steps.year.outputs.folder }}/"
+          git push

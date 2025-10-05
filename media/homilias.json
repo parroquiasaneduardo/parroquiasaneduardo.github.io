@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXVII",
+			"fecha" : "05/10/2025",
+			"audio" : "media/homilias/Domingo XXVII Tiempo Ordinario 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXVI",
 			"fecha" : "28/09/2025",
 			"audio" : "media/homilias/Domingo XXVI Tiempo Ordinario 2025.mp3"
@@ -312,18 +318,6 @@
 			"descripcion": "Domingo XXIX",
 			"fecha" : "20/10/2024",
 			"audio" : "media/homilias/Domingo XXIX Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXVIII",
-			"fecha" : "13/10/2024",
-			"audio" : "media/homilias/Domingo XXVIII Tiempo Ordinario 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXVII",
-			"fecha" : "06/10/2024",
-			"audio" : "media/homilias/Domingo XXVII Tiempo Ordinario 2024.mp3"
 		}
 	],
 	"historicas":

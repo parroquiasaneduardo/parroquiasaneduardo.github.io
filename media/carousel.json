@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "05/10/2025",
+	"ultima_actualizacion": "12/10/2025",
 	"imagenes":
 	[
 		{
@@ -9,16 +9,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XXVIII Tiempo Ordinario"
+		},
+		{
 			"texto": "Homilía Domingo XXVII Tiempo Ordinario"
 		},
 		{
 			"texto": "Balance Parroquia Setiembre 2025"
-		},
-		{
-			"texto": "Homilía Domingo XXVI Tiempo Ordinario"
-		},
-		{
-			"texto": "Curso Emaús - Encuentro con la Palabra"
 		}
 	]
 }

@@ -3,7 +3,7 @@ name: Sync MP3s
 on:
   push:
     paths:
-#      - 'media/homilias/*.mp3'
+      - 'media/homilias/*.mp3'
 
 jobs:
   sync:

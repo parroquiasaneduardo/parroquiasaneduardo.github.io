@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "26/10/2025",
+	"ultima_actualizacion": "03/12/2025",
 	"imagenes":
 	[
 		{
@@ -9,13 +9,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Octubre 2025"
+		},
+		{
 			"texto": "Homilía Domingo XXX Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Domingo XXIX Tiempo Ordinario"
-		},
-		{
-			"texto": "Balance Parroquia Setiembre 2025"
 		}
 	]
 }

@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Cristo Rey",
+			"fecha" : "23/11/2025",
+			"audio" : "media/homilias/Cristo Rey 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXX",
 			"fecha" : "26/10/2025",
 			"audio" : "media/homilias/Domingo XXX Tiempo Ordinario 2025.mp3"
@@ -300,18 +306,6 @@
 			"descripcion": "Primer Domingo",
 			"fecha" : "01/12/2024",
 			"audio" : "media/homilias/1er Domingo Adviento 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Cristo Rey",
-			"fecha" : "24/11/2024",
-			"audio" : "media/homilias/Cristo Rey 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXXIII",
-			"fecha" : "17/11/2024",
-			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2024.mp3"
 		}
 	],
 	"historicas":

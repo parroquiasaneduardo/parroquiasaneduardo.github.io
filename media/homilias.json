@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Primer Domingo",
+			"fecha" : "30/11/2025",
+			"audio" : "media/homilias/1er Domingo Adviento 2025.mp3"
+		},
+		{
 			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Cristo Rey",
 			"fecha" : "23/11/2025",

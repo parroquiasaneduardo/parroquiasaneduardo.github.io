@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Segundo Domingo",
+			"fecha" : "07/12/2025",
+			"audio" : "media/homilias/2do Domingo Adviento 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Adviento",
 			"descripcion": "Primer Domingo",
 			"fecha" : "30/11/2025",
 			"audio" : "media/homilias/1er Domingo Adviento 2025.mp3"
@@ -12,6 +18,18 @@
 			"descripcion": "Cristo Rey",
 			"fecha" : "23/11/2025",
 			"audio" : "media/homilias/Cristo Rey 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXXIII",
+			"fecha" : "16/11/2025",
+			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXXI",
+			"fecha" : "02/11/2025",
+			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2025.mp3"
 		},
 		{
 			"tiempo": "Tiempo Ordinario",

@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Noviembre 2025"
+		},
+		{
 			"texto": "Homilía 2do Domingo de Adviento"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía Cristo Rey"
-		},
-		{
-			"texto": "Balance Parroquia Octubre 2025"
 		}
 	]
 }

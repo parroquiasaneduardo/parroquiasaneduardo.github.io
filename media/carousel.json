@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "07/12/2025",
+	"ultima_actualizacion": "14/12/2025",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía 3er Domingo de Adviento"
+		},
+		{
 			"texto": "Balance Parroquia Noviembre 2025"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía 1er Domingo de Adviento"
-		},
-		{
-			"texto": "Homilía Cristo Rey"
 		}
 	]
 }

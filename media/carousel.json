@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "14/12/2025",
+	"ultima_actualizacion": "16/12/2025",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Horarios de Navidad 2025"
+		},
 		{
 			"texto": "Homilía 3er Domingo de Adviento"
 		},

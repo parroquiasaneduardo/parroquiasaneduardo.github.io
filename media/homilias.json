@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Adviento",
+			"descripcion": "Cuarto Domingo",
+			"fecha" : "21/12/2025",
+			"audio" : "media/homilias/4to Domingo Adviento 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Adviento",
 			"descripcion": "Tercer Domingo",
 			"fecha" : "14/12/2025",
 			"audio" : "media/homilias/3er Domingo Adviento 2025.mp3"
@@ -312,30 +318,6 @@
 			"descripcion": "Nochebuena",
 			"fecha" : "24/12/2024",
 			"audio" : "media/homilias/Nochebuena 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Cuarto Domingo",
-			"fecha" : "22/12/2024",
-			"audio" : "media/homilias/4to Domingo Adviento 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Tercer Domingo",
-			"fecha" : "15/12/2024",
-			"audio" : "media/homilias/3er Domingo Adviento 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Inmaculada Concepción",
-			"fecha" : "08/12/2024",
-			"audio" : "media/homilias/2do Domingo Adviento 2024.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Adviento",
-			"descripcion": "Primer Domingo",
-			"fecha" : "01/12/2024",
-			"audio" : "media/homilias/1er Domingo Adviento 2024.mp3"
 		}
 	],
 	"historicas":

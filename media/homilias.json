@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Sagrada Familia",
+			"fecha" : "28/12/2025",
+			"audio" : "media/homilias/Sagrada Familia 2025.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Nochebuena",
 			"fecha" : "24/12/2025",
 			"audio" : "media/homilias/Nochebuena 2025.mp3"
@@ -312,12 +318,6 @@
 			"descripcion": "Sta María Madre de Dios",
 			"fecha" : "31/12/2024",
 			"audio" : "media/homilias/StaMariaMadreDios2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Sagrada Familia",
-			"fecha" : "29/12/2024",
-			"audio" : "media/homilias/Sagrada Familia 2024.mp3"
 		}
 	],
 	"historicas":

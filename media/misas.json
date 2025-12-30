@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Abril a Octubre 2025",
+		"intervalo": "Enero 2026",
 		"tipos":
 		[
 			{
@@ -10,16 +10,16 @@
 				"misas":
 				[
 					{
-						"capilla": "Sta Teresa de Calcuta",
-						"hora": "18:00",
-						"cupo": "20",
-						"sacerdote": "Gustavo"
-					},
-					{
 						"capilla": "NS del Cerro",
-						"hora": "18:00",
+						"hora": "19:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
+					},
+					{
+						"capilla": "San Eduardo",
+						"hora": "20:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
 					}
 				]
 			},
@@ -47,22 +47,35 @@
 						"sacerdote": "Eduardo"
 					},
 					{
-						"capilla": "San Cayetano",
-						"hora": "12:15",
-						"cupo": "10",
+						"capilla": "San Eduardo",
+						"hora": "12:30",
+						"cupo": "20",
 						"sacerdote": "Gustavo"
 					},
 					{
 						"capilla": "NS de la Luz",
-						"hora": "18:00",
+						"hora": "19:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
 					},
 					{
 						"capilla": "San Eduardo",
-						"hora": "19:00",
+						"hora": "20:00",
 						"cupo": "20",
 						"sacerdote": "Gustavo"
+					}
+				]
+			},
+			{
+				"descripcion": "Diaria",
+				"dias": "Lunes a Sábados",
+				"misas":
+				[
+					{
+						"capilla": "Carmelitas",
+						"hora": "11:00",
+						"cupo": "20",
+						"sacerdote": "Eduardo"
 					}
 				]
 			},
@@ -72,23 +85,10 @@
 				"misas":
 				[
 					{
-						"capilla": "Carmelitas",
-						"hora": "18:00",
+						"capilla": "San Eduardo",
+						"hora": "20:00",
 						"cupo": "20",
-						"sacerdote": "Eduardo/Gustavo"
-					}
-				]
-			},
-			{
-				"descripcion": "Diaria",
-				"dias": "Sabados",
-				"misas":
-				[
-					{
-						"capilla": "Carmelitas",
-						"hora": "11:00",
-						"cupo": "20",
-						"sacerdote": "Eduardo/Gustavo"
+						"sacerdote": "Gustavo"
 					}
 				]
 			}

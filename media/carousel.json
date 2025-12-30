@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "28/12/2025",
+	"ultima_actualizacion": "30/12/2025",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios de Misas"
+		},
+		{
 			"texto": "Homilía Sagrada Familia"
 		},
 		{
 			"texto": "Homilía Nochebuena"
-		},
-		{
-			"texto": "Horarios de Navidad 2025"
 		},
 		{
 			"texto": "Balance Parroquia Noviembre 2025"

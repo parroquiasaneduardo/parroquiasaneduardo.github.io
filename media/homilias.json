@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "(víspera)",
+			"descripcion": "Sta María Madre de Dios",
+			"fecha" : "31/12/2025",
+			"audio" : "media/homilias/StaMariaMadreDios2026.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Sagrada Familia",
 			"fecha" : "28/12/2025",
@@ -312,12 +318,6 @@
 			"descripcion": "Santa María Madre de Dios",
 			"fecha" : "01/01/2025",
 			"audio" : "media/homilias/StaMariaMadreDiosPaz2025.mp3"
-		},
-		{
-			"tiempo": "(víspera)",
-			"descripcion": "Sta María Madre de Dios",
-			"fecha" : "31/12/2024",
-			"audio" : "media/homilias/StaMariaMadreDios2025.mp3"
 		}
 	],
 	"historicas":

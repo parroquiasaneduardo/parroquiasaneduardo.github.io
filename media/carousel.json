@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "30/12/2025",
+	"ultima_actualizacion": "01/01/2026",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Santa María Madre de Dios"
+		},
+		{
 			"texto": "Horarios de Misas"
 		},
 		{
@@ -28,9 +31,6 @@
 		},
 		{
 			"texto": "Homilía Nochebuena"
-		},
-		{
-			"texto": "Balance Parroquia Noviembre 2025"
 		}
 	]
 }

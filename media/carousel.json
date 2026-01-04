@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "01/01/2026",
+	"ultima_actualizacion": "04/01/2026",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo II Tiempo de Navidad"
+		},
+		{
 			"texto": "Homilía Santa María Madre de Dios"
 		},
 		{
 			"texto": "Horarios de Misas"
-		},
-		{
-			"texto": "Homilía Sagrada Familia"
 		},
 		{
 			"texto": "Homilía Nochebuena"

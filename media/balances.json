@@ -10,6 +10,11 @@
 				[					
 					{
 						"anio": "2025",
+						"mes": "Diciembre",
+						"archivo": "SanEduardo_balance_202512.pdf"
+					},
+					{
+						"anio": "2025",
 						"mes": "Noviembre",
 						"archivo": "SanEduardo_balance_202511.pdf"
 					},
@@ -62,11 +67,6 @@
 						"anio": "2025",
 						"mes": "Enero",
 						"archivo": "SanEduardo_balance_202501.pdf"
-					},
-					{
-						"anio": "2024",
-						"mes": "Diciembre",
-						"archivo": "SanEduardo_balance_202412.pdf"
 					}
 				]
 			},
@@ -75,6 +75,10 @@
 				"titulo": "Anuales",
 				"balances":
 				[
+					{
+						"anio": "Año 2025",
+						"archivo": "SanEduardo_balance_2025.pdf"
+					},
 					{
 						"anio": "Año 2024",
 						"archivo": "SanEduardo_balance_2024.pdf"

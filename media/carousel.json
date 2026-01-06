@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "04/01/2026",
+	"ultima_actualizacion": "06/01/2026",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,12 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Anual Parroquia 2025"
+		},
+		{
+			"texto": "Balance Parroquia Diciembre 2025"
+		},
+		{
 			"texto": "Homilía Domingo II Tiempo de Navidad"
 		},
 		{
@@ -28,9 +34,6 @@
 		},
 		{
 			"texto": "Horarios de Misas"
-		},
-		{
-			"texto": "Homilía Nochebuena"
 		}
 	]
 }

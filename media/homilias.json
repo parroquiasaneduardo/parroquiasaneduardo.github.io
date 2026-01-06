@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Navidad",
+			"descripcion": "Epifanía",
+			"fecha" : "06/01/2026",
+			"audio" : "media/homilias/Epifania 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Navidad",
 			"descripcion": "Domingo II",
 			"fecha" : "04/01/2026",
 			"audio" : "media/homilias/Domingo II Tiempo Navidad 2026.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Domingo III",
 			"fecha" : "26/01/2025",
 			"audio" : "media/homilias/Domingo III Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo II",
-			"fecha" : "19/01/2025",
-			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

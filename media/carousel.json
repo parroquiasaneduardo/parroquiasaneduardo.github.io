@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "06/01/2026",
+	"ultima_actualizacion": "11/01/2026",
 	"imagenes":
 	[
 		{
@@ -21,6 +21,9 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Bautismo del Señor"
+		},
+		{
 			"texto": "Homilía Epifanía"
 		},
 		{
@@ -28,12 +31,6 @@
 		},
 		{
 			"texto": "Balance Mensual Diciembre 2025"
-		},
-		{
-			"texto": "Homilía Domingo II Tiempo de Navidad"
-		},
-		{
-			"texto": "Homilía Santa María Madre de Dios"
 		},
 		{
 			"texto": "Horarios de Misas"

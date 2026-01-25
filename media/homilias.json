@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo III",
+			"fecha" : "25/01/2026",
+			"audio" : "media/homilias/Domingo III Tiempo Ordinario 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo II",
 			"fecha" : "18/01/2026",
 			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2026.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Domingo VI",
 			"fecha" : "16/02/2025",
 			"audio" : "media/homilias/Domingo VI Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo V",
-			"fecha" : "09/02/2025",
-			"audio" : "media/homilias/Domingo V Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

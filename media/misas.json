@@ -1,7 +1,7 @@
 {
 	"semanales":
 	{
-		"intervalo": "Enero 2026",
+		"intervalo": "Febrero y Marzo 2026",
 		"tipos":
 		[
 			{
@@ -10,16 +10,16 @@
 				"misas":
 				[
 					{
+						"capilla": "Teresa de Calcuta",
+						"hora": "18:00",
+						"cupo": "20",
+						"sacerdote": "Gustavo"
+					},
+					{
 						"capilla": "NS del Cerro",
 						"hora": "19:00",
 						"cupo": "10",
 						"sacerdote": "Eduardo"
-					},
-					{
-						"capilla": "San Eduardo",
-						"hora": "20:00",
-						"cupo": "20",
-						"sacerdote": "Gustavo"
 					}
 				]
 			},
@@ -68,14 +68,14 @@
 			},
 			{
 				"descripcion": "Diaria",
-				"dias": "Lunes a Sábados",
+				"dias": "Sábados",
 				"misas":
 				[
 					{
 						"capilla": "Carmelitas",
 						"hora": "11:00",
 						"cupo": "20",
-						"sacerdote": "Eduardo"
+						"sacerdote": "Eduardo/Gustavo"
 					}
 				]
 			},
@@ -86,9 +86,9 @@
 				[
 					{
 						"capilla": "San Eduardo",
-						"hora": "20:00",
+						"hora": "18:00",
 						"cupo": "20",
-						"sacerdote": "Gustavo"
+						"sacerdote": "Eduardo/Gustavo"
 					}
 				]
 			}

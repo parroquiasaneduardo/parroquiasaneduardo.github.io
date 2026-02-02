@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "01/02/2026",
+	"ultima_actualizacion": "02/02/2026",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Horarios de Misas"
+		},
+		{
 			"texto": "Homilía Domingo IV Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Domingo III Tiempo Ordinario"
-		},
-		{
-			"texto": "Horarios de Misas"
 		}
 	]
 }

@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo II",
+			"fecha" : "01/03/2026",
+			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo I",
 			"fecha" : "22/02/2026",
 			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2026.mp3"
@@ -306,12 +312,6 @@
 			"descripcion": "Domingo V",
 			"fecha" : "06/04/2025",
 			"audio" : "media/homilias/5to Domingo Tiempo Cuaresma 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo II",
-			"fecha" : "16/03/2025",
-			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2025.mp3"
 		}
 	],
 	"historicas":

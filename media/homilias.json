@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo IV",
+			"fecha" : "15/03/2026",
+			"audio" : "media/homilias/4to Domingo Tiempo Cuaresma 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo III",
 			"fecha" : "08/03/2026",
 			"audio" : "media/homilias/3er Domingo Tiempo Cuaresma 2026.mp3"

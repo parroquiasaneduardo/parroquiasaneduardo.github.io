@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo de Cuaresma",
+			"descripcion": "Domingo V",
+			"fecha" : "22/03/2026",
+			"audio" : "media/homilias/5to Domingo Tiempo Cuaresma 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo IV",
 			"fecha" : "15/03/2026",
 			"audio" : "media/homilias/4to Domingo Tiempo Cuaresma 2026.mp3"
@@ -312,12 +318,6 @@
 			"descripcion": "Jueves Santo",
 			"fecha" : "17/04/2024",
 			"audio" : "media/homilias/Jueves Santo 2025.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Domingo de Ramos",
-			"fecha" : "13/04/2025",
-			"audio" : "media/homilias/Domingo de Ramos 2025.mp3"
 		}
 	],
 	"historicas":

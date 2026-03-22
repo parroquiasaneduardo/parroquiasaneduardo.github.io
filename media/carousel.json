@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "15/03/2026",
+	"ultima_actualizacion": "22/03/2026",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía 5to Domingo Tiempo Cuaresma"
+		},
 		{
 			"texto": "Homilía 4to Domingo Tiempo Cuaresma"
 		},

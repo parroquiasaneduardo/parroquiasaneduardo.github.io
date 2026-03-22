@@ -288,36 +288,6 @@
 			"descripcion": "4to Domingo - Buen Pastor",
 			"fecha" : "11/05/2025",
 			"audio" : "media/homilias/IV Domingo de Pascua 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "3er Domingo",
-			"fecha" : "04/05/2025",
-			"audio" : "media/homilias/III Domingo de Pascua 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "2do Domingo",
-			"fecha" : "27/04/2025",
-			"audio" : "media/homilias/II Domingo de Pascua 2025.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Vigilia Pascual",
-			"fecha" : "19/04/2025",
-			"audio" : "media/homilias/Vigilia Pascual 2025.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Viernes Santo",
-			"fecha" : "18/04/2025",
-			"audio" : "media/homilias/Viernes Santo 2025.mp3"
-		},
-		{
-			"tiempo": "Semana Santa",
-			"descripcion": "Jueves Santo",
-			"fecha" : "17/04/2024",
-			"audio" : "media/homilias/Jueves Santo 2025.mp3"
 		}
 	],
 	"historicas":

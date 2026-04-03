@@ -2,6 +2,18 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Semana Santa",
+			"descripcion": "Jueves Santo",
+			"fecha" : "02/04/2026",
+			"audio" : "media/homilias/Jueves Santo 2026.mp3"
+		},
+		{
+			"tiempo": "Semana Santa",
+			"descripcion": "Domingo de Ramos",
+			"fecha" : "29/03/2026",
+			"audio" : "media/homilias/Domingo de Ramos 2026.mp3"
+		},
+		{
 			"tiempo": "Tiempo de Cuaresma",
 			"descripcion": "Domingo V",
 			"fecha" : "22/03/2026",
@@ -276,18 +288,6 @@
 			"descripcion": "6to Domingo",
 			"fecha" : "25/05/2025",
 			"audio" : "media/homilias/VI Domingo de Pascua 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "5to Domingo",
-			"fecha" : "18/05/2025",
-			"audio" : "media/homilias/V Domingo de Pascua 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "4to Domingo - Buen Pastor",
-			"fecha" : "11/05/2025",
-			"audio" : "media/homilias/IV Domingo de Pascua 2025.mp3"
 		}
 	],
 	"historicas":

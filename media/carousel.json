@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "02/04/2026",
+	"ultima_actualizacion": "03/04/2026",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Viernes Santo"
+		},
+		{
 			"texto": "Homilía Jueves Santo"
 		},
 		{
 			"texto": "Homilía Domingo de Ramos"
-		},
-		{
-			"texto": "Homilía 4to Domingo Tiempo Cuaresma"
 		}
 	]
 }

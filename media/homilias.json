@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Semana Santa",
+			"descripcion": "Viernes Santo",
+			"fecha" : "03/04/2026",
+			"audio" : "media/homilias/Viernes Santo 2026.mp3"
+		},
+		{
+			"tiempo": "Semana Santa",
 			"descripcion": "Jueves Santo",
 			"fecha" : "02/04/2026",
 			"audio" : "media/homilias/Jueves Santo 2026.mp3"
@@ -282,12 +288,6 @@
 			"descripcion": "Fiesta de Pentecostés",
 			"fecha" : "08/06/2025",
 			"audio" : "media/homilias/Pentecostes 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Pascua",
-			"descripcion": "6to Domingo",
-			"fecha" : "25/05/2025",
-			"audio" : "media/homilias/VI Domingo de Pascua 2025.mp3"
 		}
 	],
 	"historicas":

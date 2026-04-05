@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "03/04/2026",
+	"ultima_actualizacion": "04/04/2026",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Homilía Vigilia Pascual"
+		},
 		{
 			"texto": "Homilía Viernes Santo"
 		},

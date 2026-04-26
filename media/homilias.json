@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo Pascual",
+			"descripcion": "4to Domingo de Pascua",
+			"fecha" : "26/04/2026",
+			"audio" : "media/homilias/IV Domingo de Pascua 2026.mp3"
+		},
+		{
 			"tiempo": "Semana Santa",
 			"descripcion": "Vigilia Pascual",
 			"fecha" : "04/04/2026",
@@ -264,30 +270,6 @@
 			"descripcion": "Domingo XV",
 			"fecha" : "13/07/2025",
 			"audio" : "media/homilias/Domingo XV Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XIV",
-			"fecha" : "06/07/2025",
-			"audio" : "media/homilias/Domingo XIV Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "San Pedro y San Pablo",
-			"fecha" : "29/06/2025",
-			"audio" : "media/homilias/San Pedro y San Pablo 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Corpus Christi",
-			"fecha" : "22/06/2025",
-			"audio" : "media/homilias/Corpus Christi 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Santísima Trinidad",
-			"fecha" : "15/06/2025",
-			"audio" : "media/homilias/Santisima Trinidad 2025.mp3"
 		}
 	],
 	"historicas":

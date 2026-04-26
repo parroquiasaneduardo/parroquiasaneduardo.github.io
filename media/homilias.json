@@ -264,12 +264,6 @@
 			"descripcion": "Domingo XVI",
 			"fecha" : "20/07/2025",
 			"audio" : "media/homilias/Domingo XVI Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XV",
-			"fecha" : "13/07/2025",
-			"audio" : "media/homilias/Domingo XV Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "26/04/2026",
+	"ultima_actualizacion": "27/04/2026",
 	"imagenes":
 	[
 		{
@@ -21,19 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Balance Parroquia Marzo 2026"
+		},
+		{
 			"texto": "Horarios de Misas"
 		},
 		{
 			"texto": "Homilía 4to Domingo de Pascua"
-		},
-		{
-			"texto": "Homilía Vigilia Pascual"
-		},
-		{
-			"texto": "Homilía Viernes Santo"
-		},
-		{
-			"texto": "Homilía Jueves Santo"
 		}
 	]
 }

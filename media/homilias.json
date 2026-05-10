@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Pascual",
+			"descripcion": "Sexto Domingo",
+			"fecha" : "10/05/2026",
+			"audio" : "media/homilias/VI Domingo de Pascua 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Pascual",
 			"descripcion": "Quinto Domingo",
 			"fecha" : "03/05/2026",
 			"audio" : "media/homilias/V Domingo de Pascua 2026.mp3"
@@ -258,12 +264,6 @@
 			"descripcion": "Domingo XVIII",
 			"fecha" : "03/08/2025",
 			"audio" : "media/homilias/Domingo XVIII Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XVII",
-			"fecha" : "27/07/2025",
-			"audio" : "media/homilias/Domingo XVII Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

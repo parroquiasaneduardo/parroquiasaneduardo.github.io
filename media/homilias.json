@@ -2,6 +2,12 @@
 	"dominicales":
 	[	
 		{
+			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Santísima Trinidad",
+			"fecha" : "31/05/2026",
+			"audio" : "media/homilias/Santisima Trinidad 2026.mp3"
+		},
+		{
 			"tiempo": "Tiempo Pascual",
 			"descripcion": "Pentecostés",
 			"fecha" : "24/05/2026",
@@ -258,12 +264,6 @@
 			"descripcion": "Domingo XXI",
 			"fecha" : "24/08/2025",
 			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XX",
-			"fecha" : "17/08/2025",
-			"audio" : "media/homilias/Domingo XX Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

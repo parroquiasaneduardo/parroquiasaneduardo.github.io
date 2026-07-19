@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "12/07/2026",
+	"ultima_actualizacion": "19/07/2026",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,13 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XVI Tiempo Ordinario"
+		},
+		{
 			"texto": "Homilía Domingo XV Tiempo Ordinario"
 		},
 		{
 			"texto": "Balance Parroquia Junio 2026"
-		},
-		{
-			"texto": "Homilía Domingo XIV Tiempo Ordinario"
 		}
 	]
 }

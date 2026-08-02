@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XVIII",
+			"fecha" : "02/08/2026",
+			"audio" : "media/homilias/Domingo XVIII Tiempo Ordinario 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XVII",
 			"fecha" : "26/07/2026",
 			"audio" : "media/homilias/Domingo XVII Tiempo Ordinario 2026.mp3"
@@ -258,18 +264,6 @@
 			"descripcion": "Domingo XXX",
 			"fecha" : "26/10/2025",
 			"audio" : "media/homilias/Domingo XXX Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXIX",
-			"fecha" : "19/10/2025",
-			"audio" : "media/homilias/Domingo XXIX Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXVIII",
-			"fecha" : "12/10/2025",
-			"audio" : "media/homilias/Domingo XXVIII Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

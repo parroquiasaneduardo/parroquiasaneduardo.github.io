@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Asunción de María",
+			"fecha" : "15/08/2026",
+			"audio" : "media/homilias/Asuncion de Maria 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XIX",
 			"fecha" : "09/08/2026",
 			"audio" : "media/homilias/Domingo XIX Tiempo Ordinario 2026.mp3"
@@ -258,12 +264,6 @@
 			"descripcion": "Domingo XXXIII",
 			"fecha" : "16/11/2025",
 			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo XXXI",
-			"fecha" : "02/11/2025",
-			"audio" : "media/homilias/Domingo XXXI Tiempo Ordinario 2025.mp3"
 		}
 	],
 	"historicas":

@@ -192,12 +192,6 @@
 			"descripcion": "Domingo IV",
 			"fecha" : "01/02/2026",
 			"audio" : "media/homilias/Domingo IV Tiempo Ordinario 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo III",
-			"fecha" : "25/01/2026",
-			"audio" : "media/homilias/Domingo III Tiempo Ordinario 2026.mp3"
 		}
 	],
 	"historicas":

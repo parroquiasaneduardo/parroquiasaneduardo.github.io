@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXII",
+			"fecha" : "30/08/2026",
+			"audio" : "media/homilias/Domingo XXII Tiempo Ordinario 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXI",
 			"fecha" : "23/08/2026",
 			"audio" : "media/homilias/Domingo XXI Tiempo Ordinario 2026.mp3"
@@ -192,54 +198,6 @@
 			"descripcion": "Domingo III",
 			"fecha" : "25/01/2026",
 			"audio" : "media/homilias/Domingo III Tiempo Ordinario 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo II",
-			"fecha" : "18/01/2026",
-			"audio" : "media/homilias/Domingo II Tiempo Ordinario 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Bautismo del Señor",
-			"fecha" : "11/01/2026",
-			"audio" : "media/homilias/Bautismo2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Epifanía",
-			"fecha" : "06/01/2026",
-			"audio" : "media/homilias/Epifania 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Domingo II",
-			"fecha" : "04/01/2026",
-			"audio" : "media/homilias/Domingo II Tiempo Navidad 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Santa María Madre de Dios",
-			"fecha" : "01/01/2026",
-			"audio" : "media/homilias/StaMariaMadreDiosPaz2026.mp3"
-		},
-		{
-			"tiempo": "(víspera)",
-			"descripcion": "Sta María Madre de Dios",
-			"fecha" : "31/12/2025",
-			"audio" : "media/homilias/StaMariaMadreDios202.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Sagrada Familia",
-			"fecha" : "28/12/2025",
-			"audio" : "media/homilias/Sagrada Familia 2025.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Navidad",
-			"descripcion": "Nochebuena",
-			"fecha" : "24/12/2025",
-			"audio" : "media/homilias/Nochebuena 2025.mp3"
 		}
 	],
 	"historicas":

@@ -168,12 +168,6 @@
 			"descripcion": "Domingo V",
 			"fecha" : "22/03/2026",
 			"audio" : "media/homilias/5to Domingo Tiempo Cuaresma 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo IV",
-			"fecha" : "15/03/2026",
-			"audio" : "media/homilias/4to Domingo Tiempo Cuaresma 2026.mp3"
 		}
 	],
 	"historicas":

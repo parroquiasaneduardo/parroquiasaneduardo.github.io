@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXVII",
+			"fecha" : "04/10/2026",
+			"audio" : "media/homilias/Domingo XXVII Tiempo Ordinario 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXIV",
 			"fecha" : "13/09/2026",
 			"audio" : "media/homilias/Domingo XXIV Tiempo Ordinario 2026.mp3"
@@ -168,30 +174,6 @@
 			"descripcion": "Domingo IV",
 			"fecha" : "15/03/2026",
 			"audio" : "media/homilias/4to Domingo Tiempo Cuaresma 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo III",
-			"fecha" : "08/03/2026",
-			"audio" : "media/homilias/3er Domingo Tiempo Cuaresma 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo II",
-			"fecha" : "01/03/2026",
-			"audio" : "media/homilias/2do Domingo Tiempo Cuaresma 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo de Cuaresma",
-			"descripcion": "Domingo I",
-			"fecha" : "22/02/2026",
-			"audio" : "media/homilias/1er Domingo Tiempo Cuaresma 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Ordinario",
-			"descripcion": "Domingo VI",
-			"fecha" : "15/02/2026",
-			"audio" : "media/homilias/Domingo VI Tiempo Ordinario 2026.mp3"
 		}
 	],
 	"historicas":

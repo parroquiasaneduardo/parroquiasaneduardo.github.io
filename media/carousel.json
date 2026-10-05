@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "13/09/2026",
+	"ultima_actualizacion": "04/10/2026",
 	"imagenes":
 	[
 		{
@@ -21,13 +21,16 @@
 	"novedades":
 	[
 		{
+			"texto": "Homilía Domingo XXVII Tiempo Ordinario"
+		},
+		{
+			"texto": "Balance Parroquia Setiembre 2026"
+		},
+		{
 			"texto": "Homilía Domingo XXIV Tiempo Ordinario"
 		},
 		{
 			"texto": "Homilía Domingo XXIII Tiempo Ordinario"
-		},
-		{
-			"texto": "Balance Parroquia Agosto 2026"
 		}
 	]
 }

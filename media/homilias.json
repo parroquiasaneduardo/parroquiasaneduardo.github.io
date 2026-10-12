@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXVIII",
+			"fecha" : "11/10/2026",
+			"audio" : "media/homilias/Domingo XXVIII Tiempo Ordinario 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXVII",
 			"fecha" : "04/10/2026",
 			"audio" : "media/homilias/Domingo XXVII Tiempo Ordinario 2026.mp3"

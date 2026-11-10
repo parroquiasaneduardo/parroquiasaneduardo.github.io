@@ -1,5 +1,5 @@
 {
-	"ultima_actualizacion": "08/11/2026",
+	"ultima_actualizacion": "10/11/2026",
 	"imagenes":
 	[
 		{
@@ -20,6 +20,9 @@
 	],
 	"novedades":
 	[
+		{
+			"texto": "Horarios de Misas"
+		},
 		{
 			"texto": "Homilía Domingo XXXII Tiempo Ordinario"
 		},

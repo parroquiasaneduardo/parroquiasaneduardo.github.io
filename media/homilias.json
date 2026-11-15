@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo XXXIII",
+			"fecha" : "15/11/2026",
+			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXXII",
 			"fecha" : "08/11/2026",
 			"audio" : "media/homilias/Domingo XXXII Tiempo Ordinario 2026.mp3"
@@ -138,24 +144,6 @@
 			"descripcion": "Santísima Trinidad",
 			"fecha" : "31/05/2026",
 			"audio" : "media/homilias/Santisima Trinidad 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Pascual",
-			"descripcion": "Pentecostés",
-			"fecha" : "24/05/2026",
-			"audio" : "media/homilias/Pentecostes 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Pascual",
-			"descripcion": "Ascensión del Señor",
-			"fecha" : "17/05/2026",
-			"audio" : "media/homilias/Ascension 2026.mp3"
-		},
-		{
-			"tiempo": "Tiempo Pascual",
-			"descripcion": "Sexto Domingo",
-			"fecha" : "10/05/2026",
-			"audio" : "media/homilias/VI Domingo de Pascua 2026.mp3"
 		}
 	],
 	"historicas":

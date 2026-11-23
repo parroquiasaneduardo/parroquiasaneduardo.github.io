@@ -3,6 +3,12 @@
 	[	
 		{
 			"tiempo": "Tiempo Ordinario",
+			"descripcion": "Domingo Cristo Rey",
+			"fecha" : "22/11/2026",
+			"audio" : "media/homilias/Cristo Rey 2026.mp3"
+		},
+		{
+			"tiempo": "Tiempo Ordinario",
 			"descripcion": "Domingo XXXIII",
 			"fecha" : "15/11/2026",
 			"audio" : "media/homilias/Domingo XXXIII Tiempo Ordinario 2026.mp3"
